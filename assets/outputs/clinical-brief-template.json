@@ -1,0 +1,25 @@
+{
+  "schema_version": "1",
+  "skill_version": "0.3.0",
+  "pathway": "clinical",
+  "title": null,
+  "question": null,
+  "as_of": null,
+  "answer": null,
+  "answer_refs": [],
+  "known_facts": [],
+  "unknowns": [],
+  "guidelines": [],
+  "secondary_evidence": [],
+  "primary_evidence": [],
+  "next_steps": [],
+  "coverage_summary": null,
+  "limitations": [],
+  "search_log": [],
+  "human_review": {
+    "status": "not_requested",
+    "reviewer": null,
+    "date": null
+  },
+  "references": []
+}

@@ -1,0 +1,21 @@
+Med-Go Clinical Evidence v0.3.0
+Copyright (c) 2026 fineshe
+
+Original code, workflow documentation and templates are provided under the
+MIT License in LICENSE.
+
+This package references and adapts portions of:
+  K-Dense-AI/scientific-agent-skills
+  https://github.com/K-Dense-AI/scientific-agent-skills
+  Commit: a1043ef544e3a100c28e70a736b6cf32554d0677
+  Copyright (c) 2025 K-Dense Inc.
+The upstream MIT license is retained in licenses/K-Dense-MIT.txt.
+See references/provenance.md for the relevant upstream files and adaptations.
+
+Third-party guideline bibliographic metadata was compiled from the source
+spreadsheets identified in references/guidelines/README.md and
+references/guidelines/catalog-summary.json. Inclusion in this repository does
+not relicense third-party publications, abstracts, or other protected source
+material. Rights in those materials remain with their respective owners.
+The catalog contains bibliographic leads, not guideline full text or verified
+clinical recommendations. Source and verification status are retained.

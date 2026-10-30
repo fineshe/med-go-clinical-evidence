@@ -1,0 +1,2 @@
+run_id,query_id,database,platform,subcollection,role,selection_reason,query_exact,query_translation,syntax_source,syntax_checked_at,executed_at,timezone,date_field,start_date,end_date,language_limits,other_filters,expansion_settings,sort,reported_count,retrieved_count,retrieval_complete_for_query,status,raw_artifact,warnings,limitation_or_failure,next_action
+

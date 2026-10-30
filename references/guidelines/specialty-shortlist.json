@@ -1,0 +1,3312 @@
+{
+  "as_of": "2026-10-19",
+  "status": "candidate_navigation_not_current_recommendations",
+  "items": [
+    {
+      "specialty": "心血管内科",
+      "topic": "高血压",
+      "id": "GL-65fcc04e9d8d",
+      "title": "中国高血压临床实践指南",
+      "title_en": "Clinical practice guidelines for the management of hypertension in China",
+      "year": 2024,
+      "issuing_body": "中华医学会心血管病学分会、海峡两岸医药卫生交流协会高血压专业委员会、中国康复医学会心血管疾病预防与康复专业委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112148-20240709-00377",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112148-20240709-00377"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 9848,
+          "source_doc_id": "0d2b941ddc522f8ca6470b877fd3b689",
+          "department_as_supplied": "心血管内科",
+          "title_zh": "中国高血压临床实践指南",
+          "title_en": "Clinical practice guidelines for the management of hypertension in China",
+          "date_as_supplied": "2024-09-24",
+          "issuing_body_as_supplied": "中华医学会心血管病学分会、海峡两岸医药卫生交流协会高血压专业委员会、中国康复医学会心血管疾病预防与康复专业委员会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15795,
+          "source_doc_id": "0d2b941ddc522f8ca6470b877fd3b689",
+          "department_as_supplied": "心血管内科",
+          "title_zh": "中国高血压临床实践指南",
+          "title_en": "Clinical practice guidelines for the management of hypertension in China",
+          "date_as_supplied": "2024-09-24",
+          "issuing_body_as_supplied": "中华医学会心血管病学分会、海峡两岸医药卫生交流协会高血压专业委员会、中国康复医学会心血管疾病预防与康复专业委员会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "心血管内科",
+      "topic": "心力衰竭",
+      "id": "GL-46ab8ff56fe6",
+      "title": "中国心力衰竭诊断和治疗指南2024",
+      "title_en": "Chinese guidelines for the diagnosis and treatment of heart failure 2024",
+      "year": 2024,
+      "issuing_body": "中华医学会心血管病学分会、中国医师协会心血管内科医师分会、中国医师协会心力衰竭专业委员会、中华心血管病杂志编辑委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112148-20231101-00405",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112148-20231101-00405"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10711,
+          "source_doc_id": "df0a70572fbe51c2ed7cc7570d2f568f",
+          "department_as_supplied": "心血管内科",
+          "title_zh": "中国心力衰竭诊断和治疗指南2024",
+          "title_en": "Chinese guidelines for the diagnosis and treatment of heart failure 2024",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "中华医学会心血管病学分会、中国医师协会心血管内科医师分会、中国医师协会心力衰竭专业委员会、中华心血管病杂志编辑委员会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15858,
+          "source_doc_id": "df0a70572fbe51c2ed7cc7570d2f568f",
+          "department_as_supplied": "心血管内科",
+          "title_zh": "中国心力衰竭诊断和治疗指南2024",
+          "title_en": "Chinese guidelines for the diagnosis and treatment of heart failure 2024",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "中华医学会心血管病学分会、中国医师协会心血管内科医师分会、中国医师协会心力衰竭专业委员会、中华心血管病杂志编辑委员会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "心血管内科",
+      "topic": "冠心病/急性冠脉综合征",
+      "id": "GL-f800301f4ed6",
+      "title": "ACC/AHA/ACEP/NAEMSP/SCAI指南：急性冠脉综合征患者的管理-2025",
+      "title_en": "2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+      "year": 2025,
+      "issuing_body": "美国心脏病学会、American College of Cardiology、ACC、美国心脏协会、American Heart Association、AHA、美国急诊医师学会、American College of Emergency Physicians、ACEP、美国急救医疗服务医师协会、National Association of Emergency Medical Services Physicians、NAEMSP、美国心血管造影和介入学会、Society for Cardiovascular Angiography and Interventions、SCAI",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.jacc.2024.11.009",
+      "all_urls": [
+        "https://doi.org/10.1016/j.jacc.2024.11.009"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14261,
+          "source_doc_id": "18f09c42607d72122d43800bd182d7a2",
+          "department_as_supplied": "心血管内科",
+          "title_zh": "ACC/AHA/ACEP/NAEMSP/SCAI指南：急性冠脉综合征患者的管理-2025",
+          "title_en": "2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+          "date_as_supplied": "2025-02-27",
+          "issuing_body_as_supplied": "美国心脏病学会、American College of Cardiology、ACC、美国心脏协会、American Heart Association、AHA、美国急诊医师学会、American College of Emergency Physicians、ACEP、美国急救医疗服务医师协会、National Association of Emergency Medical Services Physicians、NAEMSP、美国心血管造影和介入学会、Society for Cardiovascular Angiography and Interventions、SCAI",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "呼吸科",
+      "topic": "哮喘",
+      "id": "GL-929a20534637",
+      "title": "支气管哮喘防治指南（2024年版）",
+      "title_en": "Guidelines for the prevention and management of bronchial asthma (2024 edition)",
+      "year": 2025,
+      "issuing_body": "中华医学会呼吸病学分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112147-20241013-00601",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112147-20241013-00601"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14235,
+          "source_doc_id": "535f903252627304040e49ad5949101a",
+          "department_as_supplied": "呼吸科",
+          "title_zh": "支气管哮喘防治指南（2024年版）",
+          "title_en": "Guidelines for the prevention and management of bronchial asthma (2024 edition)",
+          "date_as_supplied": "2025-03-12",
+          "issuing_body_as_supplied": "中华医学会呼吸病学分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "呼吸科",
+      "topic": "慢阻肺",
+      "id": "GL-ea28eee41f97",
+      "title": "慢性阻塞性肺疾病诊治指南（2021年修订版）",
+      "title_en": "Guidelines on diagnosis and management of chronic obstructive pulmonary disease (2021 revised edition)",
+      "year": 2021,
+      "issuing_body": "中华医学会呼吸病学分会慢性阻塞性肺疾病学组、中国医师协会呼吸医师分会慢性阻塞性肺疾病工作委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112147-20210109-00031",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112147-20210109-00031"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 1011,
+          "source_doc_id": "5053209b7d7532fbbe63613c6f82b221",
+          "department_as_supplied": "呼吸科",
+          "title_zh": "慢性阻塞性肺疾病诊治指南（2021年修订版）",
+          "title_en": "Guidelines on diagnosis and management of chronic obstructive pulmonary disease (2021 revised edition)",
+          "date_as_supplied": "2021",
+          "issuing_body_as_supplied": "中华医学会呼吸病学分会慢性阻塞性肺疾病学组、中国医师协会呼吸医师分会慢性阻塞性肺疾病工作委员会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15028,
+          "source_doc_id": "5053209b7d7532fbbe63613c6f82b221",
+          "department_as_supplied": "呼吸科",
+          "title_zh": "慢性阻塞性肺疾病诊治指南（2021年修订版）",
+          "title_en": "Guidelines on diagnosis and management of chronic obstructive pulmonary disease (2021 revised edition)",
+          "date_as_supplied": "2021",
+          "issuing_body_as_supplied": "中华医学会呼吸病学分会慢性阻塞性肺疾病学组、中国医师协会呼吸医师分会慢性阻塞性肺疾病工作委员会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "呼吸科",
+      "topic": "社区获得性肺炎",
+      "id": "GL-7b79b766662c",
+      "title": "IDSA/PIDS临床实践指南：3月龄以上婴幼儿社区获得性肺炎的管理-胸腔引流 vs 手术清创-2026",
+      "title_en": "2026 Clinical Practice Guideline Update by the Infectious Diseases Society of America and the Pediatric Infectious Diseases Society on The Management of Community-acquired Pneumonia in Infants and Children Older than 3 Months of Age: The Use of tPa and DNase or tPa Alone for Fibrinolysis",
+      "year": 2026,
+      "issuing_body": "",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1093/cid/ciag191/8525981",
+      "all_urls": [
+        "https://doi.org/10.1093/cid/ciag191/8525981"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 17274,
+          "source_doc_id": "4dfa749cdab60c97089b521dc72ca152",
+          "department_as_supplied": "儿科；呼吸科",
+          "title_zh": "IDSA/PIDS临床实践指南：3月龄以上婴幼儿社区获得性肺炎的管理-胸腔引流 vs 手术清创-2026",
+          "title_en": "2026 Clinical Practice Guideline Update by the Infectious Diseases Society of America and the Pediatric Infectious Diseases Society on The Management of Community-acquired Pneumonia in Infants and Children Older than 3 Months of Age: The Use of tPa and DNase or tPa Alone for Fibrinolysis",
+          "date_as_supplied": "2026-03",
+          "issuing_body_as_supplied": "",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "消化科",
+      "topic": "炎症性肠病",
+      "id": "GL-386af8b1e86f",
+      "title": "中国溃疡性结肠炎诊治指南（2023年·西安）",
+      "title_en": "Chinese clinical practice guideline on the management of ulcerative colitis (2023, Xi′an)",
+      "year": 2024,
+      "issuing_body": "中华医学会消化病学分会炎症性肠病学组、中国炎症性肠病诊疗质量控制评估中心",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn101480-20240123-00017",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn101480-20240123-00017"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10205,
+          "source_doc_id": "0609614afef6e6e86d3a566a3a2a1c41",
+          "department_as_supplied": "消化科",
+          "title_zh": "中国溃疡性结肠炎诊治指南（2023年·西安）",
+          "title_en": "Chinese clinical practice guideline on the management of ulcerative colitis (2023, Xi′an)",
+          "date_as_supplied": "2024-01-25",
+          "issuing_body_as_supplied": "中华医学会消化病学分会炎症性肠病学组、中国炎症性肠病诊疗质量控制评估中心",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15827,
+          "source_doc_id": "0609614afef6e6e86d3a566a3a2a1c41",
+          "department_as_supplied": "消化科",
+          "title_zh": "中国溃疡性结肠炎诊治指南（2023年·西安）",
+          "title_en": "Chinese clinical practice guideline on the management of ulcerative colitis (2023, Xi′an)",
+          "date_as_supplied": "2024-01-25",
+          "issuing_body_as_supplied": "中华医学会消化病学分会炎症性肠病学组、中国炎症性肠病诊疗质量控制评估中心",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "消化科",
+      "topic": "消化道出血",
+      "id": "GL-99a645eda9bc",
+      "title": "非静脉曲张性上消化道出血内镜治疗指南（第二版）",
+      "title_en": "Guidelines for endoscopic management of nonvariceal upper gastrointestinal bleeding (second edition)",
+      "year": 2025,
+      "issuing_body": "Fujishiro M、Iguchi M、Ono S、Funasaka K、Sakata Y、Mikami T、Kataoka M、Shimaoka S、Michida T、Igarashi Y、Tanaka S",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1111/den.15019",
+      "all_urls": [
+        "https://doi.org/10.1111/den.15019"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14533,
+          "source_doc_id": "f61d9b7ff62b5539514d8636c950894d",
+          "department_as_supplied": "消化科",
+          "title_zh": "非静脉曲张性上消化道出血内镜治疗指南（第二版）",
+          "title_en": "Guidelines for endoscopic management of nonvariceal upper gastrointestinal bleeding (second edition)",
+          "date_as_supplied": "2025",
+          "issuing_body_as_supplied": "Fujishiro M、Iguchi M、Ono S、Funasaka K、Sakata Y、Mikami T、Kataoka M、Shimaoka S、Michida T、Igarashi Y、Tanaka S",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "消化科",
+      "topic": "幽门螺杆菌",
+      "id": "GL-d21ab0f8e317",
+      "title": "ACG临床指南：幽门螺杆菌感染的治疗-2024",
+      "title_en": "ACG Clinical Guideline: Treatment of Helicobacter pylori Infection",
+      "year": 2024,
+      "issuing_body": "美国胃肠病学会、American College of Gastroenterology、ACG",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.14309/ajg.0000000000002968",
+      "all_urls": [
+        "https://doi.org/10.14309/ajg.0000000000002968"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10127,
+          "source_doc_id": "03c1085c9b25020652dcc73118688e48",
+          "department_as_supplied": "消化科",
+          "title_zh": "ACG临床指南：幽门螺杆菌感染的治疗-2024",
+          "title_en": "ACG Clinical Guideline: Treatment of Helicobacter pylori Infection",
+          "date_as_supplied": "2024-04-01",
+          "issuing_body_as_supplied": "美国胃肠病学会、American College of Gastroenterology、ACG",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "肝病科",
+      "topic": "乙型肝炎",
+      "id": "GL-73d654241ee8",
+      "title": "慢性乙型肝炎防治指南（2022年版）",
+      "title_en": "Guidelines on prevention and treatment of chronic hepatitis B (2022 version)",
+      "year": 2022,
+      "issuing_body": "中华医学会肝病学分会、中华医学会感染病学分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn501113-20221204-00607",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn501113-20221204-00607"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 3463,
+          "source_doc_id": "30aea9d9b0b1cc7764ab81ca1d720779",
+          "department_as_supplied": "感染科",
+          "title_zh": "慢性乙型肝炎防治指南（2022年版）",
+          "title_en": "Guidelines on prevention and treatment of chronic hepatitis B (2022 version)",
+          "date_as_supplied": "2022",
+          "issuing_body_as_supplied": "中华医学会肝病学分会、中华医学会感染病学分会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15287,
+          "source_doc_id": "30aea9d9b0b1cc7764ab81ca1d720779",
+          "department_as_supplied": "感染科",
+          "title_zh": "慢性乙型肝炎防治指南（2022年版）",
+          "title_en": "Guidelines on prevention and treatment of chronic hepatitis B (2022 version)",
+          "date_as_supplied": "2022",
+          "issuing_body_as_supplied": "中华医学会肝病学分会、中华医学会感染病学分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "肝病科",
+      "topic": "肝硬化",
+      "id": "GL-e591fbcd6191",
+      "title": "循证临床实践指南：肝硬化-2020",
+      "title_en": "Evidence-based clinical practice guidelines for liver cirrhosis 2020",
+      "year": 2021,
+      "issuing_body": "日本胃肠病学会、Japanese Society of Gastroenterology、JSGE、日本肝脏学会、Japan Society of Hepatology、JSH",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1111/hepr.13678",
+      "all_urls": [
+        "https://doi.org/10.1111/hepr.13678"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 520,
+          "source_doc_id": "51363df7f587683e6c2d2e60c0d72d54",
+          "department_as_supplied": "肝病科",
+          "title_zh": "循证临床实践指南：肝硬化-2020",
+          "title_en": "Evidence-based clinical practice guidelines for liver cirrhosis 2020",
+          "date_as_supplied": "2021-07-06",
+          "issuing_body_as_supplied": "日本胃肠病学会、Japanese Society of Gastroenterology、JSGE、日本肝脏学会、Japan Society of Hepatology、JSH",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "肝病科",
+      "topic": "肝衰竭",
+      "id": "GL-148ce089d857",
+      "title": "慢加急性肝衰竭诊治指南（2025年版）",
+      "title_en": "Guidelines for the diagnosis and treatment of liver failure (2025 edition)",
+      "year": 2025,
+      "issuing_body": "中华医学会肝病学分会重型肝病与人工肝学组、中华医学会肝病学分会终末期肝病营养与再生学组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn501113-20250312-00089",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn501113-20250312-00089"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14127,
+          "source_doc_id": "c51b7fd757c1cbd52e8fe4285eced599",
+          "department_as_supplied": "肝病科",
+          "title_zh": "慢加急性肝衰竭诊治指南（2025年版）",
+          "title_en": "Guidelines for the diagnosis and treatment of liver failure (2025 edition)",
+          "date_as_supplied": "2025-04-30",
+          "issuing_body_as_supplied": "中华医学会肝病学分会重型肝病与人工肝学组、中华医学会肝病学分会终末期肝病营养与再生学组",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 16039,
+          "source_doc_id": "c51b7fd757c1cbd52e8fe4285eced599",
+          "department_as_supplied": "肝病科",
+          "title_zh": "慢加急性肝衰竭诊治指南（2025年版）",
+          "title_en": "Guidelines for the diagnosis and treatment of liver failure (2025 edition)",
+          "date_as_supplied": "2025-04-30",
+          "issuing_body_as_supplied": "中华医学会肝病学分会重型肝病与人工肝学组、中华医学会肝病学分会终末期肝病营养与再生学组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "内分泌科",
+      "topic": "糖尿病",
+      "id": "GL-b300144740e8",
+      "title": "中国糖尿病防治指南（2024版）",
+      "title_en": "Chinese Guidelines for the Prevention and Treatment of Diabetes in China (2024)",
+      "year": 2025,
+      "issuing_body": "中华医学会糖尿病学分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn115791-20241203-00705",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn115791-20241203-00705"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14508,
+          "source_doc_id": "d2477187e22ed7a2ba9a09bc83db7f25",
+          "department_as_supplied": "内分泌科",
+          "title_zh": "中国糖尿病防治指南（2024版）",
+          "title_en": "Chinese Guidelines for the Prevention and Treatment of Diabetes in China (2024)",
+          "date_as_supplied": "2025",
+          "issuing_body_as_supplied": "中华医学会糖尿病学分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "内分泌科",
+      "topic": "甲状腺疾病",
+      "id": "GL-ab715e7746cc",
+      "title": "成人原发性甲状腺功能减退症病证结合诊疗指南",
+      "title_en": "Guidelines for the diagnosis and treatment of adult primary hypothyroidism based on syndrome differentiation and medication prescription",
+      "year": 2023,
+      "issuing_body": "中国医师协会中西医结合医师分会内分泌与代谢病学专业委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3969/j.issn.1673-7202.2023.16.002",
+      "all_urls": [
+        "https://doi.org/10.3969/j.issn.1673-7202.2023.16.002"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 5565,
+          "source_doc_id": "edc78a4ce282acde7c1f5d0fd4e515fd",
+          "department_as_supplied": "内分泌科",
+          "title_zh": "成人原发性甲状腺功能减退症病证结合诊疗指南",
+          "title_en": "Guidelines for the diagnosis and treatment of adult primary hypothyroidism based on syndrome differentiation and medication prescription",
+          "date_as_supplied": "2023-08-31",
+          "issuing_body_as_supplied": "中国医师协会中西医结合医师分会内分泌与代谢病学专业委员会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "内分泌科",
+      "topic": "肥胖",
+      "id": "GL-39787effb565",
+      "title": "肥胖症诊疗指南（2024年版）",
+      "title_en": "Guideline for diagnosis and treatment of obesity (2024 edition)",
+      "year": 2024,
+      "issuing_body": "中华人民共和国国家卫生健康委员会医政司",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn115610-20241017-00455",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn115610-20241017-00455"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 9804,
+          "source_doc_id": "40e2b900d0595bd6f083db67b7e194ae",
+          "department_as_supplied": "营养学",
+          "title_zh": "肥胖症诊疗指南（2024年版）",
+          "title_en": "Guideline for diagnosis and treatment of obesity (2024 edition)",
+          "date_as_supplied": "2024-10-20",
+          "issuing_body_as_supplied": "中华人民共和国国家卫生健康委员会医政司",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "肾内科",
+      "topic": "慢性肾病",
+      "id": "GL-ffeb03be5470",
+      "title": "KDIGO临床实践指南：慢性肾脏病的评估和管理-2024",
+      "title_en": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
+      "year": 2024,
+      "issuing_body": "改善全球肾脏病预后组织、Kidney Disease: Improving Global Outcomes、KDIGO",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.kint.2023.10.018",
+      "all_urls": [
+        "https://doi.org/10.1016/j.kint.2023.10.018"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10376,
+          "source_doc_id": "a5fd8aebf7a9299d5deabdc38727fbf4",
+          "department_as_supplied": "肾内科",
+          "title_zh": "KDIGO临床实践指南：慢性肾脏病的评估和管理-2024",
+          "title_en": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
+          "date_as_supplied": "2024-04",
+          "issuing_body_as_supplied": "改善全球肾脏病预后组织、Kidney Disease: Improving Global Outcomes、KDIGO",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "肾内科",
+      "topic": "急性肾损伤",
+      "id": "GL-8306866d9667",
+      "title": "中国急性肾损伤临床实践指南",
+      "title_en": "Clinical practice guidelines for acute kidney injury in China",
+      "year": 2023,
+      "issuing_body": "国家慢性肾病临床医学研究中心、中国医师协会肾脏内科医师分会、中国急性肾损伤临床实践指南专家组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112137-20230802-00133",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112137-20230802-00133"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 6119,
+          "source_doc_id": "44f00f4fd3c91ced4db8b5e5a11b4ffd",
+          "department_as_supplied": "肾内科",
+          "title_zh": "中国急性肾损伤临床实践指南",
+          "title_en": "Clinical practice guidelines for acute kidney injury in China",
+          "date_as_supplied": "2023",
+          "issuing_body_as_supplied": "国家慢性肾病临床医学研究中心、中国医师协会肾脏内科医师分会、中国急性肾损伤临床实践指南专家组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "肾内科",
+      "topic": "肾小球疾病",
+      "id": "GL-eaaca89adbed",
+      "title": "KDIGO临床实践指南：肾小球疾病的管理-2021",
+      "title_en": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases",
+      "year": 2021,
+      "issuing_body": "改善全球肾脏病预后组织、Kidney Disease: Improving Global Outcomes、KDIGO",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.kint.2021.05.021",
+      "all_urls": [
+        "https://doi.org/10.1016/j.kint.2021.05.021"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 405,
+          "source_doc_id": "ba6ba7af53a0a68380dcfed4fd45f265",
+          "department_as_supplied": "肾内科",
+          "title_zh": "KDIGO临床实践指南：肾小球疾病的管理-2021",
+          "title_en": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases",
+          "date_as_supplied": "2021-09-25",
+          "issuing_body_as_supplied": "改善全球肾脏病预后组织、Kidney Disease: Improving Global Outcomes、KDIGO",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "神经内科",
+      "topic": "缺血性卒中",
+      "id": "GL-605ca4ae05a8",
+      "title": "AHA/ASA指南：急性缺血性脑卒中患者的早期管理-2026",
+      "title_en": "2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: A Guideline From the American Heart Association/American Stroke Association",
+      "year": 2026,
+      "issuing_body": "美国心脏协会（AHA）、美国卒中协会（ASA）",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1161/STR.0000000000000513",
+      "all_urls": [
+        "https://doi.org/10.1161/STR.0000000000000513"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14910,
+          "source_doc_id": "a0467caaf4204ef47c88a9a63e1460d1",
+          "department_as_supplied": "心血管内科",
+          "title_zh": "AHA/ASA指南：急性缺血性脑卒中患者的早期管理-2026",
+          "title_en": "2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: A Guideline From the American Heart Association/American Stroke Association",
+          "date_as_supplied": "2026-01-26",
+          "issuing_body_as_supplied": "美国心脏协会（AHA）、美国卒中协会（ASA）",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "神经内科",
+      "topic": "癫痫",
+      "id": "GL-daec4ff1336d",
+      "title": "中国成人惊厥性癫痫持续状态诊治指南 （2025版）",
+      "title_en": "Chinese guidelines for standardized diagnosis and treatment of convulsive status epilepticus in adults",
+      "year": 2025,
+      "issuing_body": "中华医学会神经病学分会、中华医学会神经病学分会脑电图与癫痫学组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn113694-20250804-00455",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn113694-20250804-00455"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13346,
+          "source_doc_id": "71a3cbccf05bff8d19d3679d7573bc21",
+          "department_as_supplied": "神经内科",
+          "title_zh": "中国成人惊厥性癫痫持续状态诊治指南 （2025版）",
+          "title_en": "Chinese guidelines for standardized diagnosis and treatment of convulsive status epilepticus in adults",
+          "date_as_supplied": "2025-12-11",
+          "issuing_body_as_supplied": "中华医学会神经病学分会、中华医学会神经病学分会脑电图与癫痫学组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "神经内科",
+      "topic": "认知障碍",
+      "id": "GL-5ad18c02ce26",
+      "title": "中国阿尔茨海默病痴呆诊疗指南(2020年版)",
+      "title_en": "Chinese guidelines for diagnosis and treatment of Alzheimer's disease dementia (2020)",
+      "year": 2021,
+      "issuing_body": "中国老年保健协会阿尔茨海默病分会（ADC）指南小组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.issn.0254-9026.2021.03.001",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.issn.0254-9026.2021.03.001"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 1101,
+          "source_doc_id": "a95d418ce26d5ea9c09acc836b386988",
+          "department_as_supplied": "神经内科",
+          "title_zh": "中国阿尔茨海默病痴呆诊疗指南(2020年版)",
+          "title_en": "Chinese guidelines for diagnosis and treatment of Alzheimer's disease dementia (2020)",
+          "date_as_supplied": "2021",
+          "issuing_body_as_supplied": "中国老年保健协会阿尔茨海默病分会（ADC）指南小组",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15053,
+          "source_doc_id": "a95d418ce26d5ea9c09acc836b386988",
+          "department_as_supplied": "神经内科",
+          "title_zh": "中国阿尔茨海默病痴呆诊疗指南(2020年版)",
+          "title_en": "Chinese guidelines for diagnosis and treatment of Alzheimer's disease dementia (2020)",
+          "date_as_supplied": "2021",
+          "issuing_body_as_supplied": "中国老年保健协会阿尔茨海默病分会（ADC）指南小组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "感染科",
+      "topic": "抗菌药物/耐药感染",
+      "id": "GL-c431178919ce",
+      "title": "碳青霉烯耐药铜绿假单胞菌感染诊治指南（2026版）",
+      "title_en": "Guidelines for the diagnosis and treatment of carbapenem-resistant pseudomonas aeruginosa infection(2026 edition)",
+      "year": 2026,
+      "issuing_body": "中华医学会细菌感染与耐药防治分会、中国医药教育协会感染性疾病专业委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112137-20250721-01803",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112137-20250721-01803"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14843,
+          "source_doc_id": "f85c68067f8efb193c719e2c07d964fa",
+          "department_as_supplied": "感染科",
+          "title_zh": "碳青霉烯耐药铜绿假单胞菌感染诊治指南（2026版）",
+          "title_en": "Guidelines for the diagnosis and treatment of carbapenem-resistant pseudomonas aeruginosa infection(2026 edition)",
+          "date_as_supplied": "2026",
+          "issuing_body_as_supplied": "中华医学会细菌感染与耐药防治分会、中国医药教育协会感染性疾病专业委员会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 17440,
+          "source_doc_id": "fb9e08e4a541c9f7973dd2c76dcc4885",
+          "department_as_supplied": "感染科",
+          "title_zh": "碳青霉烯耐药铜绿假单胞菌感染诊治指南（2026版）",
+          "title_en": "Guidelines for the diagnosis and treatment of carbapenem-resistant pseudomonas aeruginosa infection(2026 edition)",
+          "date_as_supplied": "2026-02",
+          "issuing_body_as_supplied": "",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "感染科",
+      "topic": "结核病",
+      "id": "GL-9997192b069f",
+      "title": "ATS/CDC/ERS/IDSA指南：药物敏感和耐药性结核病的治疗（更新版）-2025",
+      "title_en": "Updates on the Treatment of Drug-Susceptible and Drug-Resistant Tuberculosis: An Official ATS/CDC/ERS/IDSA Clinical Practice Guideline",
+      "year": 2025,
+      "issuing_body": "美国胸科学会、American Thoracic Society、ATS、美国疾病控制与预防中心、Centers for Disease Control and Prevention、CDC、欧洲呼吸学会、European Respiratory Society、ERS、美国感染病学会、Infectious Diseases Society of America、IDSA",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1164/rccm.202410-2096ST",
+      "all_urls": [
+        "https://doi.org/10.1164/rccm.202410-2096ST"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14311,
+          "source_doc_id": "0e515021769a8961030d48fb71f45280",
+          "department_as_supplied": "感染科",
+          "title_zh": "ATS/CDC/ERS/IDSA指南：药物敏感和耐药性结核病的治疗（更新版）-2025",
+          "title_en": "Updates on the Treatment of Drug-Susceptible and Drug-Resistant Tuberculosis: An Official ATS/CDC/ERS/IDSA Clinical Practice Guideline",
+          "date_as_supplied": "2025-01-31",
+          "issuing_body_as_supplied": "美国胸科学会、American Thoracic Society、ATS、美国疾病控制与预防中心、Centers for Disease Control and Prevention、CDC、欧洲呼吸学会、European Respiratory Society、ERS、美国感染病学会、Infectious Diseases Society of America、IDSA",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "感染科",
+      "topic": "HIV",
+      "id": "GL-729a103a3546",
+      "title": "中国艾滋病诊疗指南(2024版)",
+      "title_en": "Guidelines for the diagnosis and treatment of AIDS in China (2024 edition)",
+      "year": 2024,
+      "issuing_body": "中华医学会感染病学分会艾滋病学组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn311365-20240328-00081",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn311365-20240328-00081"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10693,
+          "source_doc_id": "d100f2fa6dac7eb9b0e8e55988802aff",
+          "department_as_supplied": "感染科",
+          "title_zh": "中国艾滋病诊疗指南(2024版)",
+          "title_en": "Guidelines for the diagnosis and treatment of AIDS in China (2024 edition)",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "中华医学会感染病学分会艾滋病学组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "风湿免疫科",
+      "topic": "类风湿关节炎",
+      "id": "GL-f5af5e721fb2",
+      "title": "2024中国类风湿关节炎诊疗指南",
+      "title_en": "2024 Chinese guidelines for the diagnosis and treatment of rheumatoid arthritis",
+      "year": 2024,
+      "issuing_body": "国家皮肤与免疫疾病临床医学研究中心（北京协和医院）、中国医师协会风湿免疫专科医师分会、中国康复医学会风湿免疫病康复专业委员会、中国研究型医院学会风湿免疫专业委员会、北京整合医学学会风湿免疫分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112138-20240531-00360",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112138-20240531-00360"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 9776,
+          "source_doc_id": "5cae5997a5f3c81e524c0eda7e468d85",
+          "department_as_supplied": "风湿免疫科",
+          "title_zh": "2024中国类风湿关节炎诊疗指南",
+          "title_en": "2024 Chinese guidelines for the diagnosis and treatment of rheumatoid arthritis",
+          "date_as_supplied": "2024-11-01",
+          "issuing_body_as_supplied": "国家皮肤与免疫疾病临床医学研究中心（北京协和医院）、中国医师协会风湿免疫专科医师分会、中国康复医学会风湿免疫病康复专业委员会、中国研究型医院学会风湿免疫专业委员会、北京整合医学学会风湿免疫分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "风湿免疫科",
+      "topic": "系统性红斑狼疮",
+      "id": "GL-8d96f56370d6",
+      "title": "中国系统性红斑狼疮诊疗指南（2025版）",
+      "title_en": "Chinese Guidelines for Diagnosis and Treatment of Systemic Lupus Erythematosus (2025 Edition)",
+      "year": 2025,
+      "issuing_body": "国家皮肤与免疫疾病临床医学研究中心、中国系统性红斑狼疮研究协作组、中华医学会风湿病学分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112137-20250228-00479",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112137-20250228-00479"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13991,
+          "source_doc_id": "97eb2db9bc98fe1f401b30cb9afd616f",
+          "department_as_supplied": "风湿免疫科",
+          "title_zh": "中国系统性红斑狼疮诊疗指南（2025版）",
+          "title_en": "Chinese Guidelines for Diagnosis and Treatment of Systemic Lupus Erythematosus (2025 Edition)",
+          "date_as_supplied": "2025-06-11",
+          "issuing_body_as_supplied": "国家皮肤与免疫疾病临床医学研究中心、中国系统性红斑狼疮研究协作组、中华医学会风湿病学分会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 16032,
+          "source_doc_id": "97eb2db9bc98fe1f401b30cb9afd616f",
+          "department_as_supplied": "风湿免疫科",
+          "title_zh": "中国系统性红斑狼疮诊疗指南（2025版）",
+          "title_en": "Chinese Guidelines for Diagnosis and Treatment of Systemic Lupus Erythematosus (2025 Edition)",
+          "date_as_supplied": "2025-06-11",
+          "issuing_body_as_supplied": "国家皮肤与免疫疾病临床医学研究中心、中国系统性红斑狼疮研究协作组、中华医学会风湿病学分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "风湿免疫科",
+      "topic": "痛风",
+      "id": "GL-86892d687064",
+      "title": "中国高尿酸血症与痛风诊疗指南（2024） 第一部分：对一般痛风患者的建议",
+      "title_en": "2024 update of Chinese guidelines for diagnosis and treatment of hyperuricemia and gout. Part Ⅰ: Recommendations for general patients",
+      "year": 2025,
+      "issuing_body": "中华医学会内分泌学分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn311282-20250806-00392",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn311282-20250806-00392"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13472,
+          "source_doc_id": "0c4cd36f7e1b26ac5b0e6c3774a520ce",
+          "department_as_supplied": "风湿免疫科",
+          "title_zh": "中国高尿酸血症与痛风诊疗指南（2024） 第一部分：对一般痛风患者的建议",
+          "title_en": "2024 update of Chinese guidelines for diagnosis and treatment of hyperuricemia and gout. Part Ⅰ: Recommendations for general patients",
+          "date_as_supplied": "2025-10-31",
+          "issuing_body_as_supplied": "中华医学会内分泌学分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "血液科",
+      "topic": "白血病",
+      "id": "GL-0a10d47576ad",
+      "title": "成人急性髓系白血病（非急性早幼粒细胞白血病）中国诊疗指南（2023年版）",
+      "title_en": "Chinese diagnosis and treatment guideline for adult acute myeloid leukemia (non-acute promyelocytic leukemia) (2023 edition)",
+      "year": 2023,
+      "issuing_body": "中华医学会血液学分会白血病淋巴瘤学组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.issn.0253-2727.2023.09.001",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.issn.0253-2727.2023.09.001"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 6331,
+          "source_doc_id": "b5436ea42168b6def5bc8fa570dde240",
+          "department_as_supplied": "血液科",
+          "title_zh": "成人急性髓系白血病（非急性早幼粒细胞白血病）中国诊疗指南（2023年版）",
+          "title_en": "Chinese diagnosis and treatment guideline for adult acute myeloid leukemia (non-acute promyelocytic leukemia) (2023 edition)",
+          "date_as_supplied": "2023",
+          "issuing_body_as_supplied": "中华医学会血液学分会白血病淋巴瘤学组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "肿瘤科",
+      "topic": "肺癌",
+      "id": "GL-836ab673a9de",
+      "title": "Ⅳ期原发性肺癌中国治疗指南（2024版）",
+      "title_en": "Chinese guideline for treatment of stage Ⅳ primary lung cancer (2024 edition)",
+      "year": 2024,
+      "issuing_body": "中国医疗保健国际交流促进会肿瘤内科学分会、中国医师协会肿瘤医师分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112152-20240311-00104",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112152-20240311-00104"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10615,
+          "source_doc_id": "8a3e359b52575ed734c4c92865dbf246",
+          "department_as_supplied": "肿瘤科",
+          "title_zh": "Ⅳ期原发性肺癌中国治疗指南（2024版）",
+          "title_en": "Chinese guideline for treatment of stage Ⅳ primary lung cancer (2024 edition)",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "中国医疗保健国际交流促进会肿瘤内科学分会、中国医师协会肿瘤医师分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "肿瘤科",
+      "topic": "乳腺癌",
+      "id": "GL-17c26e97bc90",
+      "title": "中国抗癌协会乳腺癌诊治指南与规范（2026年版）",
+      "title_en": "Chinese Society of Clinical Oncology Guidelines and Specifications for the Diagnosis and Treatment of Breast Cancer (2026 Edition)",
+      "year": 2025,
+      "issuing_body": "中国抗癌协会乳腺癌专业委员会、中华医学会肿瘤学分会乳腺肿瘤学组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.19401/j.cnki.1007-3639.2025.12.009",
+      "all_urls": [
+        "https://doi.org/10.19401/j.cnki.1007-3639.2025.12.009"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13301,
+          "source_doc_id": "eb1ee61bb7214ac26ef46f11965647d9",
+          "department_as_supplied": "肿瘤科",
+          "title_zh": "中国抗癌协会乳腺癌诊治指南与规范（2026年版）",
+          "title_en": "Chinese Society of Clinical Oncology Guidelines and Specifications for the Diagnosis and Treatment of Breast Cancer (2026 Edition)",
+          "date_as_supplied": "2025-12-31",
+          "issuing_body_as_supplied": "中国抗癌协会乳腺癌专业委员会、中华医学会肿瘤学分会乳腺肿瘤学组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "肿瘤科",
+      "topic": "结直肠癌",
+      "id": "GL-68891c762a2c",
+      "title": "中国结直肠癌诊疗规范（2023版）",
+      "title_en": "Chinese clinical practice guideline for diagnosis and treatment of colorectal cancer (2023 edition)",
+      "year": 2023,
+      "issuing_body": "中华人民共和国国家卫生健康委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn115610-20230526-00236",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn115610-20230526-00236"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 5288,
+          "source_doc_id": "1ad05aae3dc899f38b9d491ac4086b84",
+          "department_as_supplied": "肿瘤科",
+          "title_zh": "中国结直肠癌诊疗规范（2023版）",
+          "title_en": "Chinese clinical practice guideline for diagnosis and treatment of colorectal cancer (2023 edition)",
+          "date_as_supplied": "2023",
+          "issuing_body_as_supplied": "中华人民共和国国家卫生健康委员会",
+          "type_as_supplied": "规范"
+        }
+      ]
+    },
+    {
+      "specialty": "妇产科",
+      "topic": "妊娠高血压",
+      "id": "GL-353962f13356",
+      "title": "中华医学会妇产科学分会妊娠期高血压疾病学组. 妊娠期高血压疾病诊治指南（2020）. 中华妇产科杂志，2020，55(04):227-238. DOI:10.3760/cma.j.cn112141-20200114-00039",
+      "title_en": "",
+      "year": 2020,
+      "issuing_body": "中华医学会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112141-20200114-00039",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112141-20200114-00039"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南list(1).xlsx",
+          "sheet": "中华医学会",
+          "row": 7,
+          "source_doc_id": null,
+          "department_as_supplied": "",
+          "title_zh": "中华医学会妇产科学分会妊娠期高血压疾病学组. 妊娠期高血压疾病诊治指南（2020）. 中华妇产科杂志，2020，55(04):227-238. DOI:10.3760/cma.j.cn112141-20200114-00039",
+          "title_en": "",
+          "date_as_supplied": "",
+          "issuing_body_as_supplied": "中华医学会",
+          "type_as_supplied": ""
+        }
+      ]
+    },
+    {
+      "specialty": "妇产科",
+      "topic": "妊娠糖尿病",
+      "id": "GL-0c0f8840a7fa",
+      "title": "中国妊娠期糖尿病母儿共同管理指南（2024版）",
+      "title_en": "Guidelines for the co-management of gestational diabetes mellitus in mothers and their offspring (2024 edition)",
+      "year": 2024,
+      "issuing_body": "中国研究型医院学会糖尿病学专业委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.19450/j.cnki.jcrh.2024.06.003",
+      "all_urls": [
+        "https://doi.org/10.19450/j.cnki.jcrh.2024.06.003"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 9713,
+          "source_doc_id": "27e18d790f9034ebe0b411a5b82a0795",
+          "department_as_supplied": "妇产科",
+          "title_zh": "中国妊娠期糖尿病母儿共同管理指南（2024版）",
+          "title_en": "Guidelines for the co-management of gestational diabetes mellitus in mothers and their offspring (2024 edition)",
+          "date_as_supplied": "2024-12-15",
+          "issuing_body_as_supplied": "中国研究型医院学会糖尿病学专业委员会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南list(1).xlsx",
+          "sheet": "中华医学会",
+          "row": 24,
+          "source_doc_id": null,
+          "department_as_supplied": "",
+          "title_zh": "中国研究型医院学会糖尿病学专业委员会. 中国妊娠期糖尿病母儿共同管理指南（2024版）. 中国研究型医院，2024，11(06):11-31. DOI:10.19450/j.cnki.jcrh.2024.06.003",
+          "title_en": "",
+          "date_as_supplied": "",
+          "issuing_body_as_supplied": "中华医学会",
+          "type_as_supplied": ""
+        }
+      ]
+    },
+    {
+      "specialty": "妇产科",
+      "topic": "产后出血",
+      "id": "GL-4956ea1a9885",
+      "title": "产后出血预防与处理指南（2023）",
+      "title_en": "Guidelines on prevention and management of postpartum hemorrhage (2023)",
+      "year": 2023,
+      "issuing_body": "中华医学会妇产科学分会产科学组、中华医学会围产医学分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112141-20230223-00084",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112141-20230223-00084"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 6125,
+          "source_doc_id": "34be2ccb38d37ff9a3039326eca0cbc4",
+          "department_as_supplied": "妇产科",
+          "title_zh": "产后出血预防与处理指南（2023）",
+          "title_en": "Guidelines on prevention and management of postpartum hemorrhage (2023)",
+          "date_as_supplied": "2023",
+          "issuing_body_as_supplied": "中华医学会妇产科学分会产科学组、中华医学会围产医学分会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15524,
+          "source_doc_id": "34be2ccb38d37ff9a3039326eca0cbc4",
+          "department_as_supplied": "妇产科",
+          "title_zh": "产后出血预防与处理指南（2023）",
+          "title_en": "Guidelines on prevention and management of postpartum hemorrhage (2023)",
+          "date_as_supplied": "2023",
+          "issuing_body_as_supplied": "中华医学会妇产科学分会产科学组、中华医学会围产医学分会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南list(1).xlsx",
+          "sheet": "中华医学会",
+          "row": 19,
+          "source_doc_id": null,
+          "department_as_supplied": "",
+          "title_zh": "中华医学会妇产科学分会产科学组，中华医学会围产医学分会. 产后出血预防与处理指南（2023）. 中华妇产科杂志，2023，58(06):401-409. DOI:10.3760/cma.j.cn112141-20230223-00084",
+          "title_en": "",
+          "date_as_supplied": "",
+          "issuing_body_as_supplied": "中华医学会",
+          "type_as_supplied": ""
+        }
+      ]
+    },
+    {
+      "specialty": "妇产科",
+      "topic": "胎膜早破/早产",
+      "id": "GL-0550062c1e7c",
+      "title": "第430号指南：早产胎膜早破的诊断和治疗-2022",
+      "title_en": "Guideline No. 430: Diagnosis and management of preterm prelabour rupture of membranes",
+      "year": 2022,
+      "issuing_body": "加拿大妇产科医生协会、Society of Obstetricians and Gynaecologists of Canada、SOGC",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.jogc.2022.08.014",
+      "all_urls": [
+        "https://doi.org/10.1016/j.jogc.2022.08.014"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 3235,
+          "source_doc_id": "5ad99091638734d4ccb7e59ed49fe853",
+          "department_as_supplied": "妇产科",
+          "title_zh": "第430号指南：早产胎膜早破的诊断和治疗-2022",
+          "title_en": "Guideline No. 430: Diagnosis and management of preterm prelabour rupture of membranes",
+          "date_as_supplied": "2022-11",
+          "issuing_body_as_supplied": "加拿大妇产科医生协会、Society of Obstetricians and Gynaecologists of Canada、SOGC",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "儿科",
+      "topic": "新生儿/早产儿",
+      "id": "GL-8b8a54f4ef8f",
+      "title": "第424号指南：早产儿和足月儿的脐带管理-2022",
+      "title_en": "Guideline No. 424: Umbilical Cord Management in Preterm and Term Infants",
+      "year": 2022,
+      "issuing_body": "加拿大妇产科医生协会、Society of Obstetricians and Gynaecologists of Canada、SOGC、加拿大儿科学会、Canadian Paediatric Society、CPS",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.jogc.2022.01.007",
+      "all_urls": [
+        "https://doi.org/10.1016/j.jogc.2022.01.007"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 3088,
+          "source_doc_id": "a2e535cb4d7fb406afe3bb698f9b595c",
+          "department_as_supplied": "儿科",
+          "title_zh": "第424号指南：早产儿和足月儿的脐带管理-2022",
+          "title_en": "Guideline No. 424: Umbilical Cord Management in Preterm and Term Infants",
+          "date_as_supplied": "2022-03-19",
+          "issuing_body_as_supplied": "加拿大妇产科医生协会、Society of Obstetricians and Gynaecologists of Canada、SOGC、加拿大儿科学会、Canadian Paediatric Society、CPS",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "儿科",
+      "topic": "儿童哮喘",
+      "id": "GL-1646dba888b2",
+      "title": "儿童支气管哮喘诊断与防治指南（2025）",
+      "title_en": "Guidelines for the diagnosis and optimal management of asthma in children (2025)",
+      "year": 2025,
+      "issuing_body": "中华医学会儿科学分会呼吸学组、中华儿科杂志编辑委员会、中国医药教育协会儿科专业委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112140-20250124-00074",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112140-20250124-00074"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14187,
+          "source_doc_id": "707ecc375659bb55bda0e8c3f813e6a9",
+          "department_as_supplied": "儿科",
+          "title_zh": "儿童支气管哮喘诊断与防治指南（2025）",
+          "title_en": "Guidelines for the diagnosis and optimal management of asthma in children (2025)",
+          "date_as_supplied": "2025-04-02",
+          "issuing_body_as_supplied": "中华医学会儿科学分会呼吸学组、中华儿科杂志编辑委员会、中国医药教育协会儿科专业委员会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "儿科",
+      "topic": "儿童感染",
+      "id": "GL-1edca9a3257a",
+      "title": "儿童社区获得性肺炎管理指南（2024修订）",
+      "title_en": "Guidelines for the management of community-acquired pneumonia in children (2024 revision)",
+      "year": 2024,
+      "issuing_body": "中华医学会儿科学分会呼吸学组、中华儿科杂志编辑委员会、中国医药教育协会儿科专业委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112140-20240728-00523",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112140-20240728-00523"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 9832,
+          "source_doc_id": "dad12822045dcef21286a25ad6fad2c0",
+          "department_as_supplied": "儿科",
+          "title_zh": "儿童社区获得性肺炎管理指南（2024修订）",
+          "title_en": "Guidelines for the management of community-acquired pneumonia in children (2024 revision)",
+          "date_as_supplied": "2024-10-02",
+          "issuing_body_as_supplied": "中华医学会儿科学分会呼吸学组、中华儿科杂志编辑委员会、中国医药教育协会儿科专业委员会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15793,
+          "source_doc_id": "dad12822045dcef21286a25ad6fad2c0",
+          "department_as_supplied": "儿科",
+          "title_zh": "儿童社区获得性肺炎管理指南（2024修订）",
+          "title_en": "Guidelines for the management of community-acquired pneumonia in children (2024 revision)",
+          "date_as_supplied": "2024-10-02",
+          "issuing_body_as_supplied": "中华医学会儿科学分会呼吸学组、中华儿科杂志编辑委员会、中国医药教育协会儿科专业委员会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "急诊/重症",
+      "topic": "脓毒症",
+      "id": "GL-d69ff5262d2b",
+      "title": "拯救脓毒运动国际指南：脓毒症和脓毒性休克的管理-2026",
+      "title_en": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026",
+      "year": 2026,
+      "issuing_body": "",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1007/s00134-026-08361-1",
+      "all_urls": [
+        "https://doi.org/10.1007/s00134-026-08361-1"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 17230,
+          "source_doc_id": "50cb3f98917a55da2baab1d4ef0b1735",
+          "department_as_supplied": "急诊/重症",
+          "title_zh": "拯救脓毒运动国际指南：脓毒症和脓毒性休克的管理-2026",
+          "title_en": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026",
+          "date_as_supplied": "2026-03",
+          "issuing_body_as_supplied": "",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "急诊/重症",
+      "topic": "复苏",
+      "id": "GL-99d0c81f5aa3",
+      "title": "韩国指南：心肺复苏-2025",
+      "title_en": "2025 Korean Guidelines for Cardiopulmonary Resuscitation: Part 1. The update process and highlights",
+      "year": 2026,
+      "issuing_body": "",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.15441/ceem.26.071",
+      "all_urls": [
+        "https://doi.org/10.15441/ceem.26.071"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 16712,
+          "source_doc_id": "d7b9c3c9d0f83dc1032bdd49aab6cfff",
+          "department_as_supplied": "危重症/急诊",
+          "title_zh": "韩国指南：心肺复苏-2025",
+          "title_en": "2025 Korean Guidelines for Cardiopulmonary Resuscitation: Part 1. The update process and highlights",
+          "date_as_supplied": "2026-06",
+          "issuing_body_as_supplied": "",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 16883,
+          "source_doc_id": "ad96f4cac190909ceb1a387de1f50e2f",
+          "department_as_supplied": "危重症/急诊",
+          "title_zh": "韩国指南：心肺复苏术—第1部分：更新过程和亮点-2025",
+          "title_en": "2025 Korean Guidelines for Cardiopulmonary Resuscitation: Part 1. The update process and highlights",
+          "date_as_supplied": "2026-05",
+          "issuing_body_as_supplied": "",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "急诊/重症",
+      "topic": "危重症通气/ARDS",
+      "id": "GL-a10fb9c8090f",
+      "title": "ESICM指南：急性呼吸窘迫综合征的定义，表型和呼吸支持策略-2023",
+      "title_en": "ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies",
+      "year": 2023,
+      "issuing_body": "欧洲危重病医学会、European Society of Intensive Care Medicine、ESICM",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1007/s00134-023-07050-7",
+      "all_urls": [
+        "https://doi.org/10.1007/s00134-023-07050-7"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 5644,
+          "source_doc_id": "6ba7bc76e8b1643df462c8396d97f4bb",
+          "department_as_supplied": "急诊/重症",
+          "title_zh": "ESICM指南：急性呼吸窘迫综合征的定义，表型和呼吸支持策略-2023",
+          "title_en": "ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies",
+          "date_as_supplied": "2023-06-16",
+          "issuing_body_as_supplied": "欧洲危重病医学会、European Society of Intensive Care Medicine、ESICM",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "普通外科",
+      "topic": "胆道疾病",
+      "id": "GL-e556e8809c3c",
+      "title": "SAGES/AHPBA指南：胆囊切除术后胆管损伤的外科治疗-2025",
+      "title_en": "SAGES-AHPBA 2025 guideline for the surgical management of bile duct injury following cholecystectomy",
+      "year": 2025,
+      "issuing_body": "美国胃肠内镜外科医师学会、Society of American Gastrointestinal and Endoscopic Surgeons、SAGES、美国肝胰胆协会、American Hepato-Pancreato-Biliary Association、AHPBA",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1007/s00464-025-12352-6",
+      "all_urls": [
+        "https://doi.org/10.1007/s00464-025-12352-6"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13409,
+          "source_doc_id": "468e12df1ea42d89c18d46d459480c48",
+          "department_as_supplied": "普通外科",
+          "title_zh": "SAGES/AHPBA指南：胆囊切除术后胆管损伤的外科治疗-2025",
+          "title_en": "SAGES-AHPBA 2025 guideline for the surgical management of bile duct injury following cholecystectomy",
+          "date_as_supplied": "2025-11-20",
+          "issuing_body_as_supplied": "美国胃肠内镜外科医师学会、Society of American Gastrointestinal and Endoscopic Surgeons、SAGES、美国肝胰胆协会、American Hepato-Pancreato-Biliary Association、AHPBA",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "普通外科",
+      "topic": "疝",
+      "id": "GL-2710bcdba360",
+      "title": "腹股沟疝诊疗指南（2024版）",
+      "title_en": "Guidelines for diagnosis and treatment on the groin hernia (2024 edition)",
+      "year": 2025,
+      "issuing_body": "中华医学会外科学分会疝与腹壁外科学组、中国医师协会外科医师分会疝和腹壁外科专家工作组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112139-20241128-00533",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112139-20241128-00533"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14310,
+          "source_doc_id": "706eff74827b2f0ef83875b2f14e9763",
+          "department_as_supplied": "普通外科",
+          "title_zh": "腹股沟疝诊疗指南（2024版）",
+          "title_en": "Guidelines for diagnosis and treatment on the groin hernia (2024 edition)",
+          "date_as_supplied": "2025-02-01",
+          "issuing_body_as_supplied": "中华医学会外科学分会疝与腹壁外科学组、中国医师协会外科医师分会疝和腹壁外科专家工作组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "胸心外科",
+      "topic": "肺癌外科",
+      "id": "GL-2e351390f045",
+      "title": "JACS指南：肺癌手术患者术前肺功能评估-2021",
+      "title_en": "Guidelines for preoperative pulmonary function assessment in patients with lung cancer who will undergo surgery (The Japanese Association for Chest Surgery)",
+      "year": 2025,
+      "issuing_body": "日本胸部外科学会、Japanese Association for Chest Surgery、JACS",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1007/s11748-025-02120-7",
+      "all_urls": [
+        "https://doi.org/10.1007/s11748-025-02120-7"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14440,
+          "source_doc_id": "5721828dc8ac544163f6137788caeda8",
+          "department_as_supplied": "胸心外科",
+          "title_zh": "JACS指南：肺癌手术患者术前肺功能评估-2021",
+          "title_en": "Guidelines for preoperative pulmonary function assessment in patients with lung cancer who will undergo surgery (The Japanese Association for Chest Surgery)",
+          "date_as_supplied": "2025",
+          "issuing_body_as_supplied": "日本胸部外科学会、Japanese Association for Chest Surgery、JACS",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "血管外科",
+      "topic": "主动脉瘤",
+      "id": "GL-65f8c0097566",
+      "title": "ESVS：腹主动脉-髂动脉瘤治疗临床实践指南-2024",
+      "title_en": "Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms",
+      "year": 2024,
+      "issuing_body": "欧洲血管外科学会、European Society for Vascular Surgery、ESVS",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.ejvs.2023.11.002",
+      "all_urls": [
+        "https://doi.org/10.1016/j.ejvs.2023.11.002"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10509,
+          "source_doc_id": "332705b665c0ceb4d252fc3aeaec3973",
+          "department_as_supplied": "血管外科",
+          "title_zh": "ESVS：腹主动脉-髂动脉瘤治疗临床实践指南-2024",
+          "title_en": "Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "欧洲血管外科学会、European Society for Vascular Surgery、ESVS",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "血管外科",
+      "topic": "外周动脉病",
+      "id": "GL-df707390ce5f",
+      "title": "ESVS：无症状下肢外周动脉疾病和间歇性跛行管理临床实践指南-2024",
+      "title_en": "Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 Clinical Practice Guidelines on the Management of Asymptomatic Lower Limb Peripheral Arterial Disease and Intermittent Claudication",
+      "year": 2024,
+      "issuing_body": "欧洲血管外科学会、European Society for Vascular Surgery、ESVS",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.ejvs.2023.08.067",
+      "all_urls": [
+        "https://doi.org/10.1016/j.ejvs.2023.08.067"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10519,
+          "source_doc_id": "41084b38e5bbd6b874db55adbc577fa5",
+          "department_as_supplied": "血管外科",
+          "title_zh": "ESVS：无症状下肢外周动脉疾病和间歇性跛行管理临床实践指南-2024",
+          "title_en": "Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 Clinical Practice Guidelines on the Management of Asymptomatic Lower Limb Peripheral Arterial Disease and Intermittent Claudication",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "欧洲血管外科学会、European Society for Vascular Surgery、ESVS",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "血管外科",
+      "topic": "静脉血栓",
+      "id": "GL-b3c75bf09494",
+      "title": "下肢深静脉血栓形成导管接触性溶栓护理实践指南（2025版）",
+      "title_en": "Guidelines for nursing practice in catheter-directed thrombolysis for deep vein thrombosis of the lower extremities (2025 edition)",
+      "year": 2026,
+      "issuing_body": "中国医师协会介入医师分会外周血管介入专家委员会、中国静脉介入联盟",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn115682-20250609-03028",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn115682-20250609-03028"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14974,
+          "source_doc_id": "029f6768c407f592dffc99fcb9e24ee7",
+          "department_as_supplied": "血管外科",
+          "title_zh": "下肢深静脉血栓形成导管接触性溶栓护理实践指南（2025版）",
+          "title_en": "Guidelines for nursing practice in catheter-directed thrombolysis for deep vein thrombosis of the lower extremities (2025 edition)",
+          "date_as_supplied": "2026-01-06",
+          "issuing_body_as_supplied": "中国医师协会介入医师分会外周血管介入专家委员会、中国静脉介入联盟",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "神经外科",
+      "topic": "颅脑损伤",
+      "id": "GL-45571199231b",
+      "title": "颅脑损伤（头部内伤）中医康复指南",
+      "title_en": "Guidelines for Traditional Chinese Medicine Rehabilitation of Craniocerebral Injury (Head Injury)",
+      "year": 2026,
+      "issuing_body": "",
+      "kind": "指南候选",
+      "url": null,
+      "all_urls": [],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 17238,
+          "source_doc_id": "15a842540ae6844083023864bd553e6a",
+          "department_as_supplied": "神经外科",
+          "title_zh": "颅脑损伤（头部内伤）中医康复指南",
+          "title_en": "Guidelines for Traditional Chinese Medicine Rehabilitation of Craniocerebral Injury (Head Injury)",
+          "date_as_supplied": "2026-03",
+          "issuing_body_as_supplied": "",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "神经外科",
+      "topic": "脑出血",
+      "id": "GL-a45774af4dd6",
+      "title": "重症成人脑出血患者的神经预测指南-2023",
+      "title_en": "Guidelines for Neuroprognostication in Critically Ill Adults with Intracerebral Hemorrhage",
+      "year": 2024,
+      "issuing_body": "David Y Hwang、Keri S Kim、Susanne Muehlschlegel、Katja E Wartenberg、Venkatakrishna Rajajee、Sheila A Alexander、Katharina M Busl、Claire J Creutzfeldt、Gabriel V Fontaine、Sara E Hocker、Dominik Madzar、Dea Mahanes、Shraddha Mainali、Oliver W Sakowitz、Panayiotis N Varelas、Christian Weimar、Thomas Westermaier、Jürgen Meixensberger",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1007/s12028-023-01854-7",
+      "all_urls": [
+        "https://doi.org/10.1007/s12028-023-01854-7"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10368,
+          "source_doc_id": "52b8a65db25a6d484e4746e9e1e89112",
+          "department_as_supplied": "神经外科",
+          "title_zh": "重症成人脑出血患者的神经预测指南-2023",
+          "title_en": "Guidelines for Neuroprognostication in Critically Ill Adults with Intracerebral Hemorrhage",
+          "date_as_supplied": "2024-04",
+          "issuing_body_as_supplied": "David Y Hwang、Keri S Kim、Susanne Muehlschlegel、Katja E Wartenberg、Venkatakrishna Rajajee、Sheila A Alexander、Katharina M Busl、Claire J Creutzfeldt、Gabriel V Fontaine、Sara E Hocker、Dominik Madzar、Dea Mahanes、Shraddha Mainali、Oliver W Sakowitz、Panayiotis N Varelas、Christian Weimar、Thomas Westermaier、Jürgen Meixensberger",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "神经外科",
+      "topic": "颅内肿瘤",
+      "id": "GL-5cea9c434e33",
+      "title": "EANO指南：成人胶质瘤，胶质神经元瘤和神经元肿瘤用于靶向治疗选择的合理分子检测-2024",
+      "title_en": "Updated EANO guideline on rational molecular testing of gliomas, glioneuronal, and neuronal tumors in adults for targeted therapy selection - Update 1",
+      "year": 2024,
+      "issuing_body": "欧洲神经肿瘤协会、European Association for Neuro-Oncology、EANO",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1093/neuonc/noae213",
+      "all_urls": [
+        "https://doi.org/10.1093/neuonc/noae213"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 9822,
+          "source_doc_id": "276d971b86fbe2e7794bf3920e72b261",
+          "department_as_supplied": "神经外科",
+          "title_zh": "EANO指南：成人胶质瘤，胶质神经元瘤和神经元肿瘤用于靶向治疗选择的合理分子检测-2024",
+          "title_en": "Updated EANO guideline on rational molecular testing of gliomas, glioneuronal, and neuronal tumors in adults for targeted therapy selection - Update 1",
+          "date_as_supplied": "2024-10-10",
+          "issuing_body_as_supplied": "欧洲神经肿瘤协会、European Association for Neuro-Oncology、EANO",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "骨科",
+      "topic": "骨关节炎",
+      "id": "GL-a2804c59fe41",
+      "title": "中国骨关节炎诊疗指南（2024版）",
+      "title_en": "Chinese guidelines for diagnosis and treatment of osteoarthritis (2024 edition)",
+      "year": 2024,
+      "issuing_body": "中国骨关节炎诊疗指南专家组、中国老年保健协会疼痛病学分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn101658-20240618-00074",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn101658-20240618-00074"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10016,
+          "source_doc_id": "153c12683dccfb2cfb2192a053c402ac",
+          "department_as_supplied": "骨科",
+          "title_zh": "中国骨关节炎诊疗指南（2024版）",
+          "title_en": "Chinese guidelines for diagnosis and treatment of osteoarthritis (2024 edition)",
+          "date_as_supplied": "2024-06-25",
+          "issuing_body_as_supplied": "中国骨关节炎诊疗指南专家组、中国老年保健协会疼痛病学分会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15816,
+          "source_doc_id": "153c12683dccfb2cfb2192a053c402ac",
+          "department_as_supplied": "骨科",
+          "title_zh": "中国骨关节炎诊疗指南（2024版）",
+          "title_en": "Chinese guidelines for diagnosis and treatment of osteoarthritis (2024 edition)",
+          "date_as_supplied": "2024-06-25",
+          "issuing_body_as_supplied": "中国骨关节炎诊疗指南专家组、中国老年保健协会疼痛病学分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "骨科",
+      "topic": "骨质疏松/骨折",
+      "id": "GL-a41037abc9bb",
+      "title": "老年性骨质疏松症中西医结合诊疗指南",
+      "title_en": "Guideline for diagnosis and treatment of senile osteoporosis with the integrated traditional Chinese and Western medicine",
+      "year": 2024,
+      "issuing_body": "《老年性骨质疏松症中西医结合诊疗指南》工作组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3969/j.issn.1006-7108.2024.07.001",
+      "all_urls": [
+        "https://doi.org/10.3969/j.issn.1006-7108.2024.07.001"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 9958,
+          "source_doc_id": "70e13d2bb2b99feaf493084e0d8e1049",
+          "department_as_supplied": "骨科",
+          "title_zh": "老年性骨质疏松症中西医结合诊疗指南",
+          "title_en": "Guideline for diagnosis and treatment of senile osteoporosis with the integrated traditional Chinese and Western medicine",
+          "date_as_supplied": "2024-07-20",
+          "issuing_body_as_supplied": "《老年性骨质疏松症中西医结合诊疗指南》工作组",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15809,
+          "source_doc_id": "70e13d2bb2b99feaf493084e0d8e1049",
+          "department_as_supplied": "骨科",
+          "title_zh": "老年性骨质疏松症中西医结合诊疗指南",
+          "title_en": "Guideline for diagnosis and treatment of senile osteoporosis with the integrated traditional Chinese and Western medicine",
+          "date_as_supplied": "2024-07-20",
+          "issuing_body_as_supplied": "《老年性骨质疏松症中西医结合诊疗指南》工作组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "骨科",
+      "topic": "腰椎疾病",
+      "id": "GL-b11a2081be5a",
+      "title": "非手术疗法治疗腰椎间盘突出症的循证实践指南",
+      "title_en": "Evidence-based practice guideline for non-surgical treatment of lumbar disc herniation",
+      "year": 2024,
+      "issuing_body": "葛龙、李镜、尚文茹、邢新、牛军强、闵凯莉、惠旭、何升华、姜宏、焦锋、姚嫄、董敬石、徐倩、郝国雄、冷向阳、李刚、林定坤、刘军、马维虎、莫文、史晓林、宋敏、王拥军、王勇平、姚啸生、于杰、詹红生、朱立国、谢兴文、邢丹、杜亮、卢卫忠、郭珂、李紫珺、李秀霞、李美萱、李艳飞、张立存、赵继荣、杨克虎",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.7507/1672-2531.202309143",
+      "all_urls": [
+        "https://doi.org/10.7507/1672-2531.202309143"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10539,
+          "source_doc_id": "4da84f6b50afaff2850fc0a2785d22da",
+          "department_as_supplied": "骨科",
+          "title_zh": "非手术疗法治疗腰椎间盘突出症的循证实践指南",
+          "title_en": "Evidence-based practice guideline for non-surgical treatment of lumbar disc herniation",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "葛龙、李镜、尚文茹、邢新、牛军强、闵凯莉、惠旭、何升华、姜宏、焦锋、姚嫄、董敬石、徐倩、郝国雄、冷向阳、李刚、林定坤、刘军、马维虎、莫文、史晓林、宋敏、王拥军、王勇平、姚啸生、于杰、詹红生、朱立国、谢兴文、邢丹、杜亮、卢卫忠、郭珂、李紫珺、李秀霞、李美萱、李艳飞、张立存、赵继荣、杨克虎",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "泌尿外科",
+      "topic": "尿路结石",
+      "id": "GL-0a508bc80e14",
+      "title": "EAU指南：尿石症的诊断和治疗-2025",
+      "title_en": "European Association of Urology Guidelines on the Diagnosis and Treatment of Urolithiasis",
+      "year": 2025,
+      "issuing_body": "欧洲泌尿外科学会、European Association of Urology、EAU",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.eururo.2025.03.011",
+      "all_urls": [
+        "https://doi.org/10.1016/j.eururo.2025.03.011"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14153,
+          "source_doc_id": "44d3ec64cfba39c5b343b598ec5329cc",
+          "department_as_supplied": "泌尿外科",
+          "title_zh": "EAU指南：尿石症的诊断和治疗-2025",
+          "title_en": "European Association of Urology Guidelines on the Diagnosis and Treatment of Urolithiasis",
+          "date_as_supplied": "2025-04-22",
+          "issuing_body_as_supplied": "欧洲泌尿外科学会、European Association of Urology、EAU",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "泌尿外科",
+      "topic": "前列腺疾病",
+      "id": "GL-5b292154e526",
+      "title": "良性前列腺增生中医诊疗指南（2025版）",
+      "title_en": "Guideline for diagnosis and treatment of benign prostatic hyperplasia in traditional Chinese medicine (2025 edition)",
+      "year": 2025,
+      "issuing_body": "中华中医药学会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.13288/j.11-2166/r.2025.15.018",
+      "all_urls": [
+        "https://doi.org/10.13288/j.11-2166/r.2025.15.018"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13834,
+          "source_doc_id": "43da6328f9987870c8897b1eaf549c56",
+          "department_as_supplied": "泌尿外科",
+          "title_zh": "良性前列腺增生中医诊疗指南（2025版）",
+          "title_en": "Guideline for diagnosis and treatment of benign prostatic hyperplasia in traditional Chinese medicine (2025 edition)",
+          "date_as_supplied": "2025-08-01",
+          "issuing_body_as_supplied": "中华中医药学会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "泌尿外科",
+      "topic": "泌尿系肿瘤",
+      "id": "GL-02162ef14c66",
+      "title": "CUA-CUOG指南：转移性去势抵抗性前列腺癌（更新版）-2025",
+      "title_en": "2025 Canadian Urological Association-Canadian Uro-oncology Group Guideline: Metastatic castration-resistant prostate cancer (Update)",
+      "year": 2025,
+      "issuing_body": "加拿大泌尿外科协会、Canadian Urological Association、CUA、加拿大泌尿肿瘤学组、Canadian Uro-oncology Group、CUOG",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.5489/cuaj.9341",
+      "all_urls": [
+        "https://doi.org/10.5489/cuaj.9341"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13822,
+          "source_doc_id": "ab3f8117d6a8b8ae753e6b8cb1b38c7a",
+          "department_as_supplied": "泌尿外科",
+          "title_zh": "CUA-CUOG指南：转移性去势抵抗性前列腺癌（更新版）-2025",
+          "title_en": "2025 Canadian Urological Association-Canadian Uro-oncology Group Guideline: Metastatic castration-resistant prostate cancer (Update)",
+          "date_as_supplied": "2025-08-05",
+          "issuing_body_as_supplied": "加拿大泌尿外科协会、Canadian Urological Association、CUA、加拿大泌尿肿瘤学组、Canadian Uro-oncology Group、CUOG",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "麻醉科",
+      "topic": "困难气道",
+      "id": "GL-33d8d4def891",
+      "title": "西班牙SEDAR/SEMES/SEORL-CCC指南：困难气道的管理—第2部分-2024",
+      "title_en": "Spanish Society of Anesthesiology, Reanimation and Pain Therapy (SEDAR), Spanish Society of Emergency and Emergency Medicine (SEMES) and Spanish Society of Otolaryngology, Head and Neck Surgery (SEORL-CCC) Guideline for difficult airway management. Part II",
+      "year": 2024,
+      "issuing_body": "西班牙麻醉与复苏学会、Spanish Society of Anesthesiology, Reanimation and Pain Therapy、SEDAR",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.redare.2024.02.002",
+      "all_urls": [
+        "https://doi.org/10.1016/j.redare.2024.02.002"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10399,
+          "source_doc_id": "988912f1e021b9aa390f3e1bed599e35",
+          "department_as_supplied": "麻醉科",
+          "title_zh": "西班牙SEDAR/SEMES/SEORL-CCC指南：困难气道的管理—第2部分-2024",
+          "title_en": "Spanish Society of Anesthesiology, Reanimation and Pain Therapy (SEDAR), Spanish Society of Emergency and Emergency Medicine (SEMES) and Spanish Society of Otolaryngology, Head and Neck Surgery (SEORL-CCC) Guideline for difficult airway management. Part II",
+          "date_as_supplied": "2024-03",
+          "issuing_body_as_supplied": "西班牙麻醉与复苏学会、Spanish Society of Anesthesiology, Reanimation and Pain Therapy、SEDAR",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "麻醉科",
+      "topic": "围术期疼痛",
+      "id": "GL-afdca5550efb",
+      "title": "成人术后疼痛管理临床实践指南（2024版）",
+      "title_en": "Clinical practice guidelines for postoperative pain management in adults (2024 edition)",
+      "year": 2025,
+      "issuing_body": "中华医学会麻醉学分会疼痛学组、《成人术后疼痛管理临床实践指南(2024版)》工作组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn131073-20250414-00902",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn131073-20250414-00902"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13602,
+          "source_doc_id": "c8dfdd2977c29b956a4dd469fea92ce1",
+          "department_as_supplied": "麻醉学",
+          "title_zh": "成人术后疼痛管理临床实践指南（2024版）",
+          "title_en": "Clinical practice guidelines for postoperative pain management in adults (2024 edition)",
+          "date_as_supplied": "2025-09-30",
+          "issuing_body_as_supplied": "中华医学会麻醉学分会疼痛学组、《成人术后疼痛管理临床实践指南(2024版)》工作组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "麻醉科",
+      "topic": "围术期监测",
+      "id": "GL-12d9866e2347",
+      "title": "围术期神经肌肉阻滞的管理：欧洲麻醉和重症监护学会临床指南",
+      "title_en": "Peri-operative management of neuromuscular blockade: a guideline from the European Society of Anaesthesiology and Intensive Care",
+      "year": 2024,
+      "issuing_body": "欧洲麻醉和重症监护学会、European Society of Anaesthesiology and Intensive Care、ESAIC",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn131073.20240306.00601",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn131073.20240306.00601"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10689,
+          "source_doc_id": "c7e3528f0edc66e6403b40d0c3a4acda",
+          "department_as_supplied": "麻醉科",
+          "title_zh": "围术期神经肌肉阻滞的管理：欧洲麻醉和重症监护学会临床指南",
+          "title_en": "Peri-operative management of neuromuscular blockade: a guideline from the European Society of Anaesthesiology and Intensive Care",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "欧洲麻醉和重症监护学会、European Society of Anaesthesiology and Intensive Care、ESAIC",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "疼痛科",
+      "topic": "慢性疼痛",
+      "id": "GL-6ced9c7f4e61",
+      "title": "ACR适宜性标准：‌慢性踝关节疼痛（更新版）-2025",
+      "title_en": "ACR Appropriateness Criteria® Chronic Ankle Pain: Update 2025",
+      "year": 2026,
+      "issuing_body": "",
+      "kind": "推荐/规范候选",
+      "url": null,
+      "all_urls": [],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 16743,
+          "source_doc_id": "00cc3572a1b51449239f37960256424a",
+          "department_as_supplied": "疼痛科；骨科",
+          "title_zh": "ACR适宜性标准：‌慢性踝关节疼痛（更新版）-2025",
+          "title_en": "ACR Appropriateness Criteria® Chronic Ankle Pain: Update 2025",
+          "date_as_supplied": "2026-03",
+          "issuing_body_as_supplied": "",
+          "type_as_supplied": "标准"
+        }
+      ]
+    },
+    {
+      "specialty": "精神科",
+      "topic": "抑郁",
+      "id": "GL-f55dab45a7e0",
+      "title": "CANMAT2023年成人重度抑郁症管理临床指南更新：CANMAT成人重度抑郁症管理临床指南更新-2023",
+      "title_en": "Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults: Réseau canadien pour les traitements de l'humeur et de l'anxiété (CANMAT) 2023 : Mise à jour des lignes directrices cliniques pour la prise en charge du trouble dépressif majeur chez les adultes",
+      "year": 2024,
+      "issuing_body": "加拿大情绪和焦虑治疗网络、Canadian Network for Mood and Anxiety Treatments、CANMAT",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1177/07067437241245384",
+      "all_urls": [
+        "https://doi.org/10.1177/07067437241245384"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10489,
+          "source_doc_id": "271854d684a8e7e1a55c9a1954daa296",
+          "department_as_supplied": "精神科",
+          "title_zh": "CANMAT2023年成人重度抑郁症管理临床指南更新：CANMAT成人重度抑郁症管理临床指南更新-2023",
+          "title_en": "Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults: Réseau canadien pour les traitements de l'humeur et de l'anxiété (CANMAT) 2023 : Mise à jour des lignes directrices cliniques pour la prise en charge du trouble dépressif majeur chez les adultes",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "加拿大情绪和焦虑治疗网络、Canadian Network for Mood and Anxiety Treatments、CANMAT",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "精神科",
+      "topic": "精神分裂症",
+      "id": "GL-620f8ada9495",
+      "title": "澳大利亚和新西兰指南：精神分裂症的管理-2026",
+      "title_en": "Australian and New Zealand Journal of Psychiatry Grading of Recommendations, Assessment, Development and Evaluations (GRADE) guidelines for the management of schizophrenia",
+      "year": 2026,
+      "issuing_body": "",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1177/00048674251406058",
+      "all_urls": [
+        "https://doi.org/10.1177/00048674251406058"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 17131,
+          "source_doc_id": "e7371edaad15e679a2c83880ba69cb6f",
+          "department_as_supplied": "精神科",
+          "title_zh": "澳大利亚和新西兰指南：精神分裂症的管理-2026",
+          "title_en": "Australian and New Zealand Journal of Psychiatry Grading of Recommendations, Assessment, Development and Evaluations (GRADE) guidelines for the management of schizophrenia",
+          "date_as_supplied": "2026-04",
+          "issuing_body_as_supplied": "",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "皮肤性病科",
+      "topic": "特应性皮炎",
+      "id": "GL-eacd5d544f71",
+      "title": "比利时特应性皮炎指南-2024",
+      "title_en": "Belgian atopic dermatitis guidelines",
+      "year": 2024,
+      "issuing_body": "Hilde Lapeere、Reinhart Speeckaert、Marie Baeck、Bita Dezfoulian、Julien Lambert、Pierre-Paul Roquet-Gravy、Annelies Stockman、Jonathan White、Francisca Castelijns、Jan Gutermuth",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1080/17843286.2023.2285576",
+      "all_urls": [
+        "https://doi.org/10.1080/17843286.2023.2285576"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10415,
+          "source_doc_id": "03d7c17a50a1a2c85306f0bd3ea95839",
+          "department_as_supplied": "皮肤性病科",
+          "title_zh": "比利时特应性皮炎指南-2024",
+          "title_en": "Belgian atopic dermatitis guidelines",
+          "date_as_supplied": "2024-02",
+          "issuing_body_as_supplied": "Hilde Lapeere、Reinhart Speeckaert、Marie Baeck、Bita Dezfoulian、Julien Lambert、Pierre-Paul Roquet-Gravy、Annelies Stockman、Jonathan White、Francisca Castelijns、Jan Gutermuth",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "皮肤性病科",
+      "topic": "银屑病",
+      "id": "GL-09ed9d1be49c",
+      "title": "寻常型银屑病中西医结合诊疗指南",
+      "title_en": "Guidelines for the Diagnosis and Treatment of Psoriasis Vulgaris with Traditional Chinese Medicine and Western Medicine",
+      "year": 2024,
+      "issuing_body": "世界中医药学会联合会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3969/j.issn.1673-7202.2024.17.001",
+      "all_urls": [
+        "https://doi.org/10.3969/j.issn.1673-7202.2024.17.001"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 9869,
+          "source_doc_id": "4f95f602bad78b90228dd8f014bf61fb",
+          "department_as_supplied": "皮肤性病科",
+          "title_zh": "寻常型银屑病中西医结合诊疗指南",
+          "title_en": "Guidelines for the Diagnosis and Treatment of Psoriasis Vulgaris with Traditional Chinese Medicine and Western Medicine",
+          "date_as_supplied": "2024-09-15",
+          "issuing_body_as_supplied": "世界中医药学会联合会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15798,
+          "source_doc_id": "4f95f602bad78b90228dd8f014bf61fb",
+          "department_as_supplied": "皮肤性病科",
+          "title_zh": "寻常型银屑病中西医结合诊疗指南",
+          "title_en": "Guidelines for the Diagnosis and Treatment of Psoriasis Vulgaris with Traditional Chinese Medicine and Western Medicine",
+          "date_as_supplied": "2024-09-15",
+          "issuing_body_as_supplied": "世界中医药学会联合会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "皮肤性病科",
+      "topic": "性传播感染",
+      "id": "GL-35f755052414",
+      "title": "BASHH英国DoxyPEP预防梅毒指南-2025",
+      "title_en": "British Association for Sexual Health and HIV (BASHH) UK national guideline for the use of doxycycline post-exposure prophylaxis (DoxyPEP) for the prevention of syphilis, 2025",
+      "year": 2025,
+      "issuing_body": "英国性健康与艾滋病协会、British Association for Sexual Health and HIV、BASHH",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1177/09564624251352053",
+      "all_urls": [
+        "https://doi.org/10.1177/09564624251352053"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13988,
+          "source_doc_id": "9250fa6cb0f3f4435ef75b7208546677",
+          "department_as_supplied": "皮肤性病科",
+          "title_zh": "BASHH英国DoxyPEP预防梅毒指南-2025",
+          "title_en": "British Association for Sexual Health and HIV (BASHH) UK national guideline for the use of doxycycline post-exposure prophylaxis (DoxyPEP) for the prevention of syphilis, 2025",
+          "date_as_supplied": "2025-06-12",
+          "issuing_body_as_supplied": "英国性健康与艾滋病协会、British Association for Sexual Health and HIV、BASHH",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "眼科",
+      "topic": "青光眼",
+      "id": "GL-61d8e7a3c37a",
+      "title": "EGS指南：青光眼的术语和管理（第6版）-2025",
+      "title_en": "European Glaucoma Society - Terminology and guidelines for glaucoma, 6th Edition",
+      "year": 2025,
+      "issuing_body": "欧洲青光眼学会、European Glaucoma Society、EGS",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1136/bjophthalmol-2025-egsguidelines",
+      "all_urls": [
+        "https://doi.org/10.1136/bjophthalmol-2025-egsguidelines"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13676,
+          "source_doc_id": "c4f3f644e95bb9f9d77bf876e9e5d2ea",
+          "department_as_supplied": "眼科",
+          "title_zh": "EGS指南：青光眼的术语和管理（第6版）-2025",
+          "title_en": "European Glaucoma Society - Terminology and guidelines for glaucoma, 6th Edition",
+          "date_as_supplied": "2025-09-08",
+          "issuing_body_as_supplied": "欧洲青光眼学会、European Glaucoma Society、EGS",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "眼科",
+      "topic": "白内障",
+      "id": "GL-5bd525e6602a",
+      "title": "中国成人白内障摘除手术指南（2023年）",
+      "title_en": "Chinese guideline for cataract extraction surgery in adults (2023)",
+      "year": 2023,
+      "issuing_body": "中华医学会眼科学分会白内障及屈光手术学组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112142-20230829-00066",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112142-20230829-00066"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 6051,
+          "source_doc_id": "014c2700a3608dac949bd8afb07386d8",
+          "department_as_supplied": "眼科",
+          "title_zh": "中国成人白内障摘除手术指南（2023年）",
+          "title_en": "Chinese guideline for cataract extraction surgery in adults (2023)",
+          "date_as_supplied": "2023",
+          "issuing_body_as_supplied": "中华医学会眼科学分会白内障及屈光手术学组",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15516,
+          "source_doc_id": "014c2700a3608dac949bd8afb07386d8",
+          "department_as_supplied": "眼科",
+          "title_zh": "中国成人白内障摘除手术指南（2023年）",
+          "title_en": "Chinese guideline for cataract extraction surgery in adults (2023)",
+          "date_as_supplied": "2023",
+          "issuing_body_as_supplied": "中华医学会眼科学分会白内障及屈光手术学组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "耳鼻咽喉科",
+      "topic": "鼻窦炎",
+      "id": "GL-2e3a16b2329d",
+      "title": "慢性鼻窦炎诊断和治疗指南（2024）",
+      "title_en": "Guidelines for the diagnosis and treatment of chronic rhinosinusitis (2024)",
+      "year": 2025,
+      "issuing_body": "中华耳鼻咽喉头颈外科杂志编辑委员会、中华医学会耳鼻咽喉头颈外科学分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn115330-20250116-00051",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn115330-20250116-00051"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14457,
+          "source_doc_id": "8c8f4492146164a1811e85fb899538f5",
+          "department_as_supplied": "耳鼻咽喉科",
+          "title_zh": "慢性鼻窦炎诊断和治疗指南（2024）",
+          "title_en": "Guidelines for the diagnosis and treatment of chronic rhinosinusitis (2024)",
+          "date_as_supplied": "2025",
+          "issuing_body_as_supplied": "中华耳鼻咽喉头颈外科杂志编辑委员会、中华医学会耳鼻咽喉头颈外科学分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "耳鼻咽喉科",
+      "topic": "听力障碍",
+      "id": "GL-db70cd11d8e7",
+      "title": "突发性聋诊断和治疗指南（2026实践版）",
+      "title_en": "Guideline for diagnosis and treatment of sudden sensorineural hearing loss (2026 practical edition)",
+      "year": 2026,
+      "issuing_body": "",
+      "kind": "指南候选",
+      "url": null,
+      "all_urls": [],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 16976,
+          "source_doc_id": "8c522e644a91834736d80178d5d3917b",
+          "department_as_supplied": "耳鼻咽喉科",
+          "title_zh": "突发性聋诊断和治疗指南（2026实践版）",
+          "title_en": "Guideline for diagnosis and treatment of sudden sensorineural hearing loss (2026 practical edition)",
+          "date_as_supplied": "2026-04",
+          "issuing_body_as_supplied": "",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "口腔科",
+      "topic": "牙周疾病",
+      "id": "GL-2bf4a05576da",
+      "title": "IV期牙周炎的治疗：EFP S3级临床实践指南",
+      "title_en": "Treatment of stage IV periodontitis: The EFP S3 level clinical practice guideline",
+      "year": 2022,
+      "issuing_body": "欧洲牙周病联合会、European Federation of Periodontology、EFP",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1111/jcpe.13639",
+      "all_urls": [
+        "https://doi.org/10.1111/jcpe.13639"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 3330,
+          "source_doc_id": "3c6626aa96f940e17f7f17851b8c3f6d",
+          "department_as_supplied": "口腔科",
+          "title_zh": "IV期牙周炎的治疗：EFP S3级临床实践指南",
+          "title_en": "Treatment of stage IV periodontitis: The EFP S3 level clinical practice guideline",
+          "date_as_supplied": "2022-06",
+          "issuing_body_as_supplied": "欧洲牙周病联合会、European Federation of Periodontology、EFP",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "口腔科",
+      "topic": "龋病",
+      "id": "GL-b8cf254b190b",
+      "title": "ADA：循证临床实践指南：龋齿病变的恢复性治疗-2023",
+      "title_en": "Evidence-based clinical practice guideline on restorative treatments for caries lesions: A report from the American Dental Association",
+      "year": 2023,
+      "issuing_body": "美国牙科协会、American Dental Association、ADA",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.adaj.2023.04.011",
+      "all_urls": [
+        "https://doi.org/10.1016/j.adaj.2023.04.011"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 5944,
+          "source_doc_id": "066c6c3cf5d91443f25fb4febfbcc4e3",
+          "department_as_supplied": "口腔科",
+          "title_zh": "ADA：循证临床实践指南：龋齿病变的恢复性治疗-2023",
+          "title_en": "Evidence-based clinical practice guideline on restorative treatments for caries lesions: A report from the American Dental Association",
+          "date_as_supplied": "2023-07",
+          "issuing_body_as_supplied": "美国牙科协会、American Dental Association、ADA",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "口腔科",
+      "topic": "牙髓疾病",
+      "id": "GL-fa08ccc80a63",
+      "title": "ESE临床实践指南：牙髓和根尖疾病的治疗-2023",
+      "title_en": "Treatment of pulpal and apical disease: The European Society of Endodontology (ESE) S3-level clinical practice guideline",
+      "year": 2023,
+      "issuing_body": "欧洲牙髓病学学会、European Society of Endodontology、ESE",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1111/iej.13974",
+      "all_urls": [
+        "https://doi.org/10.1111/iej.13974"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 5532,
+          "source_doc_id": "1270b651b26605f0c54fc028daed9648",
+          "department_as_supplied": "口腔科",
+          "title_zh": "ESE临床实践指南：牙髓和根尖疾病的治疗-2023",
+          "title_en": "Treatment of pulpal and apical disease: The European Society of Endodontology (ESE) S3-level clinical practice guideline",
+          "date_as_supplied": "2023-09-29",
+          "issuing_body_as_supplied": "欧洲牙髓病学学会、European Society of Endodontology、ESE",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "老年病科",
+      "topic": "老年综合管理",
+      "id": "GL-9131d85463f6",
+      "title": "老年失能分类评估标准指南(2023版)",
+      "title_en": "Guidelines for categorical assessment of disability in old age (2023 edition)",
+      "year": 2024,
+      "issuing_body": "国家重点研发计划《老年失能分类评估标准体系及预警模型研究》项目专家组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.16636/j.cnki.jinn.1673-2642.2024.03.001",
+      "all_urls": [
+        "https://doi.org/10.16636/j.cnki.jinn.1673-2642.2024.03.001"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10598,
+          "source_doc_id": "8186005bb59860c52b400261f79a9c4f",
+          "department_as_supplied": "老年病科",
+          "title_zh": "老年失能分类评估标准指南(2023版)",
+          "title_en": "Guidelines for categorical assessment of disability in old age (2023 edition)",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "国家重点研发计划《老年失能分类评估标准体系及预警模型研究》项目专家组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "老年病科",
+      "topic": "衰弱",
+      "id": "GL-041985975c9e",
+      "title": "衰弱老年人运动干预临床实践指南（2025版）",
+      "title_en": "Clinical practice guideline for exercise intervention in older adults with frailty (2025 edition)",
+      "year": 2025,
+      "issuing_body": "国家老年医学中心、中国医学科学院老年医学研究院、中国老年护理联盟、中华医学会老年医学分会护理学组、中国老年保健医学研究会老年医学护理分会、北京护理学会老年专业委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn115682-20250418-02030",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn115682-20250418-02030"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13313,
+          "source_doc_id": "1dff7fcdcf3a52c91fd0134e7f7d60e8",
+          "department_as_supplied": "老年病科",
+          "title_zh": "衰弱老年人运动干预临床实践指南（2025版）",
+          "title_en": "Clinical practice guideline for exercise intervention in older adults with frailty (2025 edition)",
+          "date_as_supplied": "2025-12-26",
+          "issuing_body_as_supplied": "国家老年医学中心、中国医学科学院老年医学研究院、中国老年护理联盟、中华医学会老年医学分会护理学组、中国老年保健医学研究会老年医学护理分会、北京护理学会老年专业委员会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "康复科",
+      "topic": "骨科康复",
+      "id": "GL-1ff24d7d8c4e",
+      "title": "中国膝骨关节炎康复治疗指南（2023版）",
+      "title_en": "Chinese：（2023）",
+      "year": 2024,
+      "issuing_body": "中华医学会物理医学与康复学会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.7507/1672-2531.202306145",
+      "all_urls": [
+        "https://doi.org/10.7507/1672-2531.202306145"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10778,
+          "source_doc_id": "928a410bb0bbc1a04ccc30b852218fe9",
+          "department_as_supplied": "康复科",
+          "title_zh": "中国膝骨关节炎康复治疗指南（2023版）",
+          "title_en": "Chinese：（2023）",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "中华医学会物理医学与康复学会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "康复科",
+      "topic": "心肺康复",
+      "id": "GL-0dacaaef8a66",
+      "title": "欧洲德语国家的心脏康复——来自德国、奥地利和瑞士的循证指南LLKardReha-DACH-Part 1",
+      "title_en": "Cardiac Rehabilitation in German Speaking Countries of Europe-Evidence-Based Guidelines from Germany, Austria and Switzerland LLKardReha-DACH-Part 1",
+      "year": 2021,
+      "issuing_body": "Bernhard Rauch、Annett Salzwedel、Birna Bjarnason-Wehrens、Christian Albus、Karin Meng、Jean-Paul Schmid、Werner Benzer、Matthes Hackbusch、Katrin Jensen、Bernhard Schwaab、Johann Altenberger、Nicola Benjamin、Kurt Bestehorn、Christa Bongarth、Gesine Dörr、Sarah Eichler、Hans-Peter Einwang、Johannes Falk、Johannes Glatz、Stephan Gielen、Maurizio Grilli、Ekkehard Grünig、Manju Guha、Matthias Hermann、Eike Hoberg、Stefan Höfer、Harald Kaemmerer、Karl-Heinz Ladwig、Wolfgang Mayer-Berger、Maria-Inti Metzendorf、Roland Nebel、Rhoia Clara Neidenbach、Josef Niebauer、Uwe Nixdorff、Renate Oberhoffer、Rona Reibis、Nils Reiss、Daniel Saure、Axel Schlitt、Heinz Völler、Roland von Känel、Susanne Weinbrenner、Ronja Westphal、On Behalf Of The Cardiac Rehabilitation Guideline Group",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3390/jcm10102192",
+      "all_urls": [
+        "https://doi.org/10.3390/jcm10102192"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 583,
+          "source_doc_id": "d34cf14ce5d90704458ade811083b838",
+          "department_as_supplied": "康复科",
+          "title_zh": "欧洲德语国家的心脏康复——来自德国、奥地利和瑞士的循证指南LLKardReha-DACH-Part 1",
+          "title_en": "Cardiac Rehabilitation in German Speaking Countries of Europe-Evidence-Based Guidelines from Germany, Austria and Switzerland LLKardReha-DACH-Part 1",
+          "date_as_supplied": "2021-05-19",
+          "issuing_body_as_supplied": "Bernhard Rauch、Annett Salzwedel、Birna Bjarnason-Wehrens、Christian Albus、Karin Meng、Jean-Paul Schmid、Werner Benzer、Matthes Hackbusch、Katrin Jensen、Bernhard Schwaab、Johann Altenberger、Nicola Benjamin、Kurt Bestehorn、Christa Bongarth、Gesine Dörr、Sarah Eichler、Hans-Peter Einwang、Johannes Falk、Johannes Glatz、Stephan Gielen、Maurizio Grilli、Ekkehard Grünig、Manju Guha、Matthias Hermann、Eike Hoberg、Stefan Höfer、Harald Kaemmerer、Karl-Heinz Ladwig、Wolfgang Mayer-Berger、Maria-Inti Metzendorf、Roland Nebel、Rhoia Clara Neidenbach、Josef Niebauer、Uwe Nixdorff、Renate Oberhoffer、Rona Reibis、Nils Reiss、Daniel Saure、Axel Schlitt、Heinz Völler、Roland von Känel、Susanne Weinbrenner、Ronja Westphal、On Behalf Of The Cardiac Rehabilitation Guideline Group",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "护理",
+      "topic": "压疮/伤口",
+      "id": "GL-a3fd414fba4e",
+      "title": "WHS压疮治疗指南-2023更新",
+      "title_en": "WHS guidelines for the treatment of pressure ulcers-2023 update",
+      "year": 2024,
+      "issuing_body": "美国创伤愈合学会、Wound Healing Society、WHS",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1111/wrr.13130",
+      "all_urls": [
+        "https://doi.org/10.1111/wrr.13130"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10467,
+          "source_doc_id": "0b6456c43cd4ed250614e7c7bcd27739",
+          "department_as_supplied": "护理",
+          "title_zh": "WHS压疮治疗指南-2023更新",
+          "title_en": "WHS guidelines for the treatment of pressure ulcers-2023 update",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "美国创伤愈合学会、Wound Healing Society、WHS",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "护理",
+      "topic": "导管护理",
+      "id": "GL-789693d756ef",
+      "title": "静脉导管常见并发症临床护理实践指南",
+      "title_en": "Clinical nursing practice guideline of common complications caused by intravenous catheters",
+      "year": 2022,
+      "issuing_body": "中华护理学会静脉输液治疗专业委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn115682-20211222-05775",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn115682-20211222-05775"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 3598,
+          "source_doc_id": "b81ec5850182081f3d4d28253a98b18a",
+          "department_as_supplied": "护理",
+          "title_zh": "静脉导管常见并发症临床护理实践指南",
+          "title_en": "Clinical nursing practice guideline of common complications caused by intravenous catheters",
+          "date_as_supplied": "2022",
+          "issuing_body_as_supplied": "中华护理学会静脉输液治疗专业委员会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 15311,
+          "source_doc_id": "b81ec5850182081f3d4d28253a98b18a",
+          "department_as_supplied": "护理",
+          "title_zh": "静脉导管常见并发症临床护理实践指南",
+          "title_en": "Clinical nursing practice guideline of common complications caused by intravenous catheters",
+          "date_as_supplied": "2022",
+          "issuing_body_as_supplied": "中华护理学会静脉输液治疗专业委员会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "营养科",
+      "topic": "营养支持",
+      "id": "GL-ab14b101adf9",
+      "title": "ESPEN指南：外科手术中的临床营养（更新版）-2025",
+      "title_en": "ESPEN guideline on clinical nutrition in surgery - Update 2025",
+      "year": 2025,
+      "issuing_body": "欧洲临床营养和代谢学会、European Society for Clinical Nutrition and Metabolism、ESPEN",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.clnu.2025.08.029",
+      "all_urls": [
+        "https://doi.org/10.1016/j.clnu.2025.08.029"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13690,
+          "source_doc_id": "524cb3abf2f10e09b10ed2b95930812a",
+          "department_as_supplied": "营养学",
+          "title_zh": "ESPEN指南：外科手术中的临床营养（更新版）-2025",
+          "title_en": "ESPEN guideline on clinical nutrition in surgery - Update 2025",
+          "date_as_supplied": "2025-09-03",
+          "issuing_body_as_supplied": "欧洲临床营养和代谢学会、European Society for Clinical Nutrition and Metabolism、ESPEN",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "营养科",
+      "topic": "肥胖管理",
+      "id": "GL-60ed2b7838c8",
+      "title": "中国超重和肥胖人群运动处方指南",
+      "title_en": "Exercise Prescription Guidelines for Overweight and Obese Population in China",
+      "year": 2025,
+      "issuing_body": "中国体育科学学会、中国营养学会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.16469/J.css.2025KX085",
+      "all_urls": [
+        "https://doi.org/10.16469/J.css.2025KX085"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13474,
+          "source_doc_id": "b22bdbd7dabcacfacbbeb8d417f3fd95",
+          "department_as_supplied": "营养学",
+          "title_zh": "中国超重和肥胖人群运动处方指南",
+          "title_en": "Exercise Prescription Guidelines for Overweight and Obese Population in China",
+          "date_as_supplied": "2025-10-31",
+          "issuing_body_as_supplied": "中国体育科学学会、中国营养学会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 16012,
+          "source_doc_id": "b22bdbd7dabcacfacbbeb8d417f3fd95",
+          "department_as_supplied": "营养学",
+          "title_zh": "中国超重和肥胖人群运动处方指南",
+          "title_en": "Exercise Prescription Guidelines for Overweight and Obese Population in China",
+          "date_as_supplied": "2025-10-31",
+          "issuing_body_as_supplied": "中国体育科学学会、中国营养学会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "药学",
+      "topic": "合理用药",
+      "id": "GL-c82462f2ef73",
+      "title": "临床药学服务价值评价实践指南(第一版)",
+      "title_en": "Practice Guideline for the Value Evaluation of Clinical Pharmacy Services(First Edition)",
+      "year": 2024,
+      "issuing_body": "四川省医学科学院·四川省人民医院（电子科技大学附属医院）药学部、中华医学会临床药学分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3870/j.issn.1004-0781.2024.03.001",
+      "all_urls": [
+        "https://doi.org/10.3870/j.issn.1004-0781.2024.03.001"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10166,
+          "source_doc_id": "8ee32ed9a01febb5a15fa32e1ab92b68",
+          "department_as_supplied": "药学",
+          "title_zh": "临床药学服务价值评价实践指南(第一版)",
+          "title_en": "Practice Guideline for the Value Evaluation of Clinical Pharmacy Services(First Edition)",
+          "date_as_supplied": "2024-03-01",
+          "issuing_body_as_supplied": "四川省医学科学院·四川省人民医院（电子科技大学附属医院）药学部、中华医学会临床药学分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "检验科",
+      "topic": "生物标志物",
+      "id": "GL-e6b174cf74f7",
+      "title": "乳腺癌生物标志物检测临床应用指南",
+      "title_en": "Clinical practice guidelines for breast cancer biomarker testing",
+      "year": 2025,
+      "issuing_body": "中华医学会病理学分会、中国抗癌协会乳腺癌专业委员会、国家病理质控中心",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112151-20250702-00440",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112151-20250702-00440"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13561,
+          "source_doc_id": "e1e0c609b47040f938d2cda50355538f",
+          "department_as_supplied": "检验科",
+          "title_zh": "乳腺癌生物标志物检测临床应用指南",
+          "title_en": "Clinical practice guidelines for breast cancer biomarker testing",
+          "date_as_supplied": "2025-10-10",
+          "issuing_body_as_supplied": "中华医学会病理学分会、中国抗癌协会乳腺癌专业委员会、国家病理质控中心",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "影像科",
+      "topic": "影像检查选择",
+      "id": "GL-c2f2f3cc34c5",
+      "title": "眼眶病常用影像学检查设备操作指南(2024)",
+      "title_en": "Guidelines for the operation of imaging equipment in orbital diseases(2024)",
+      "year": 2024,
+      "issuing_body": "《眼眶病常用影像学检查设备操作指南2024》专家组、中国医药教育协会眼科影像与智能医疗分会、中国医师协会眼科分会眼肿瘤专委会、国际转化医学会眼科专业委员会、中国眼科影像研究专家组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3980/j.issn.1672-5123.2024.2.01",
+      "all_urls": [
+        "https://doi.org/10.3980/j.issn.1672-5123.2024.2.01"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10188,
+          "source_doc_id": "6894370e312a8b163cf712289266b9f3",
+          "department_as_supplied": "影像科",
+          "title_zh": "眼眶病常用影像学检查设备操作指南(2024)",
+          "title_en": "Guidelines for the operation of imaging equipment in orbital diseases(2024)",
+          "date_as_supplied": "2024-02-08",
+          "issuing_body_as_supplied": "《眼眶病常用影像学检查设备操作指南2024》专家组、中国医药教育协会眼科影像与智能医疗分会、中国医师协会眼科分会眼肿瘤专委会、国际转化医学会眼科专业委员会、中国眼科影像研究专家组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "影像科",
+      "topic": "超声",
+      "id": "GL-d58a0e372fca",
+      "title": "中国法布雷病超声心动图规范化筛查指南(2024版)",
+      "title_en": "Chinese guideline for the standardized echocardiographic screening of Fabry disease (2024 edition)",
+      "year": 2024,
+      "issuing_body": "中国超声心动图学会、中华医学会超声医学分会、山东省医学会超声医学分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn131148-20240116-00038",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn131148-20240116-00038"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10671,
+          "source_doc_id": "8c60c4bfc893cb23c9f7063dd5059f0a",
+          "department_as_supplied": "影像科",
+          "title_zh": "中国法布雷病超声心动图规范化筛查指南(2024版)",
+          "title_en": "Chinese guideline for the standardized echocardiographic screening of Fabry disease (2024 edition)",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "中国超声心动图学会、中华医学会超声医学分会、山东省医学会超声医学分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "输血科",
+      "topic": "红细胞输注",
+      "id": "GL-bd7d732e0eb5",
+      "title": "ACCP：临床实践指南：危重症成人红细胞输注-2024",
+      "title_en": "Red Blood Cell Transfusion in Critically Ill Adults: An American College of Chest Physicians Clinical Practice Guideline",
+      "year": 2024,
+      "issuing_body": "美国胸科医师学会、American College of Chest Physicians、ACCP",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1016/j.chest.2024.09.016",
+      "all_urls": [
+        "https://doi.org/10.1016/j.chest.2024.09.016"
+      ],
+      "selection_basis": "题录定向选择，优先主题整体诊疗覆盖；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 9846,
+          "source_doc_id": "89ffa772fdd73de26d0c5aef4eab6991",
+          "department_as_supplied": "血液科",
+          "title_zh": "ACCP：临床实践指南：危重症成人红细胞输注-2024",
+          "title_en": "Red Blood Cell Transfusion in Critically Ill Adults: An American College of Chest Physicians Clinical Practice Guideline",
+          "date_as_supplied": "2024-09-26",
+          "issuing_body_as_supplied": "美国胸科医师学会、American College of Chest Physicians、ACCP",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "输血科",
+      "topic": "血小板输注",
+      "id": "GL-faf572ac6a79",
+      "title": "AABB/ICTMG指南：血小板输注国际指南-2025",
+      "title_en": "Platelet Transfusion: 2025 AABB and ICTMG International Clinical Practice Guidelines",
+      "year": 2025,
+      "issuing_body": "美国血库协会、American Association of Blood Banks、AABB、国际输血医学指南合作组织、International Collaboration for Transfusion Medicine Guidelines、ICTMG",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1001/jama.2025.7529",
+      "all_urls": [
+        "https://doi.org/10.1001/jama.2025.7529"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14039,
+          "source_doc_id": "ce06142dfacdc9eb5d3e9901d6910a8a",
+          "department_as_supplied": "输血科",
+          "title_zh": "AABB/ICTMG指南：血小板输注国际指南-2025",
+          "title_en": "Platelet Transfusion: 2025 AABB and ICTMG International Clinical Practice Guidelines",
+          "date_as_supplied": "2025-05-29",
+          "issuing_body_as_supplied": "美国血库协会、American Association of Blood Banks、AABB、国际输血医学指南合作组织、International Collaboration for Transfusion Medicine Guidelines、ICTMG",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "输血科",
+      "topic": "输血反应",
+      "id": "GL-8d25fe7faad7",
+      "title": "BSH指南：急性输血反应的调查与管理-2023",
+      "title_en": "Guideline on the investigation and management of acute transfusion reactions",
+      "year": 2023,
+      "issuing_body": "英国血液病学学会、British Society for Haematology、BSH",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1111/bjh.18789",
+      "all_urls": [
+        "https://doi.org/10.1111/bjh.18789"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 5971,
+          "source_doc_id": "8eeb62550c3242f58d1c2c4318cc0793",
+          "department_as_supplied": "输血科",
+          "title_zh": "BSH指南：急性输血反应的调查与管理-2023",
+          "title_en": "Guideline on the investigation and management of acute transfusion reactions",
+          "date_as_supplied": "2023-06",
+          "issuing_body_as_supplied": "英国血液病学学会、British Society for Haematology、BSH",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "整形外科",
+      "topic": "唇腭裂",
+      "id": "GL-0b7cfeab39e3",
+      "title": "唇裂诊疗指南（2022 年版）",
+      "title_en": "Clinical guideline for the diagnosis and treatment of cleft lip (2022 edition)",
+      "year": 2022,
+      "issuing_body": "中华人民共和国国家卫生健康委员会",
+      "kind": "指南候选",
+      "url": null,
+      "all_urls": [],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 2809,
+          "source_doc_id": "f052b58e271a266e1b04669f11022324",
+          "department_as_supplied": "整形外科",
+          "title_zh": "唇裂诊疗指南（2022 年版）",
+          "title_en": "Clinical guideline for the diagnosis and treatment of cleft lip (2022 edition)",
+          "date_as_supplied": "2022-10-27",
+          "issuing_body_as_supplied": "中华人民共和国国家卫生健康委员会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "整形外科",
+      "topic": "整形围术期",
+      "id": "GL-8497070b00aa",
+      "title": "欧洲围术期静脉血栓栓塞预防指南（首次修订版）：第8章：整形外科-2024",
+      "title_en": "European guidelines on peri-operative venous thromboembolism prophylaxis: first update.: Chapter 8: Plastic surgery",
+      "year": 2024,
+      "issuing_body": "欧洲麻醉和重症监护学会、European Society of Anaesthesiology and Intensive Care、ESAIC",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1097/EJA.0000000000001998",
+      "all_urls": [
+        "https://doi.org/10.1097/EJA.0000000000001998"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 9988,
+          "source_doc_id": "645b471246e440409a0097ecabb8a16b",
+          "department_as_supplied": "整形外科",
+          "title_zh": "欧洲围术期静脉血栓栓塞预防指南（首次修订版）：第8章：整形外科-2024",
+          "title_en": "European guidelines on peri-operative venous thromboembolism prophylaxis: first update.: Chapter 8: Plastic surgery",
+          "date_as_supplied": "2024-07-04",
+          "issuing_body_as_supplied": "欧洲麻醉和重症监护学会、European Society of Anaesthesiology and Intensive Care、ESAIC",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "烧伤科",
+      "topic": "烧伤处理",
+      "id": "GL-cc5445942049",
+      "title": "伤口、压疮和烧伤指南-5：下肢溃疡和静脉曲张的治疗（第2版）-2024",
+      "title_en": "Wound, Pressure Ulcer, and Burn Guidelines-5: Guidelines for the management of lower leg ulcers and varicose veins, second edition",
+      "year": 2024,
+      "issuing_body": "日本皮肤病协会、Japanese Dermatological Association、JDA",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.1111/1346-8138.17503",
+      "all_urls": [
+        "https://doi.org/10.1111/1346-8138.17503"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10487,
+          "source_doc_id": "2120fe0a7e9046870475ae65138c46b6",
+          "department_as_supplied": "烧伤科",
+          "title_zh": "伤口、压疮和烧伤指南-5：下肢溃疡和静脉曲张的治疗（第2版）-2024",
+          "title_en": "Wound, Pressure Ulcer, and Burn Guidelines-5: Guidelines for the management of lower leg ulcers and varicose veins, second edition",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "日本皮肤病协会、Japanese Dermatological Association、JDA",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "烧伤科",
+      "topic": "烧伤感染",
+      "id": "GL-2543ff7a0280",
+      "title": "烧伤侵袭性真菌感染诊断与防治实践指南（2024版）",
+      "title_en": "Practical guidelines for diagnosis, prevention and treatment of invasive fungal infection after burn (2024 edition)",
+      "year": 2024,
+      "issuing_body": "中国医疗保健国际交流促进会烧伤医学分会、中华烧伤与创面修复杂志编辑委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn501225-20240103-00003",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn501225-20240103-00003"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 10683,
+          "source_doc_id": "c5e0c5dfd7e7846ce958af12ff747d30",
+          "department_as_supplied": "烧伤科",
+          "title_zh": "烧伤侵袭性真菌感染诊断与防治实践指南（2024版）",
+          "title_en": "Practical guidelines for diagnosis, prevention and treatment of invasive fungal infection after burn (2024 edition)",
+          "date_as_supplied": "2024",
+          "issuing_body_as_supplied": "中国医疗保健国际交流促进会烧伤医学分会、中华烧伤与创面修复杂志编辑委员会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "预防医学/公共卫生",
+      "topic": "疫苗接种",
+      "id": "GL-fc80f4c30403",
+      "title": "北京市水痘疫苗接种技术指南（2025年版）",
+      "title_en": "Technical guidelines for varicella vaccination in Beijing (2025 edition)",
+      "year": 2026,
+      "issuing_body": "北京市疾病预防控制中心",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.16760/j.cnki.sdggws.20251230.002",
+      "all_urls": [
+        "https://doi.org/10.16760/j.cnki.sdggws.20251230.002"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14977,
+          "source_doc_id": "0a8762ba4f0e922432681bf4d4de9447",
+          "department_as_supplied": "预防医学",
+          "title_zh": "北京市水痘疫苗接种技术指南（2025年版）",
+          "title_en": "Technical guidelines for varicella vaccination in Beijing (2025 edition)",
+          "date_as_supplied": "2026-01-04",
+          "issuing_body_as_supplied": "北京市疾病预防控制中心",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "预防医学/公共卫生",
+      "topic": "筛查",
+      "id": "GL-16eb2c48a2ef",
+      "title": "体检人群骨质疏松筛查及健康管理指南（2026）",
+      "title_en": "Guidelines for osteoporosis screening and health management in physical examination population (2026)",
+      "year": 2026,
+      "issuing_body": "《体检人群骨质疏松筛查及健康管理指南（2026）》制订委员会、《中华健康管理学杂志》编辑委员会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn115624-20251029-00898",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn115624-20251029-00898"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14847,
+          "source_doc_id": "21f2c2881df1b2ed0261020b7f455adb",
+          "department_as_supplied": "预防医学",
+          "title_zh": "体检人群骨质疏松筛查及健康管理指南（2026）",
+          "title_en": "Guidelines for osteoporosis screening and health management in physical examination population (2026)",
+          "date_as_supplied": "2026-02-20",
+          "issuing_body_as_supplied": "《体检人群骨质疏松筛查及健康管理指南（2026）》制订委员会、《中华健康管理学杂志》编辑委员会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "中医学",
+      "topic": "中医诊疗",
+      "id": "GL-e7c9e27fe192",
+      "title": "国际中医临床实践指南：糖尿病视网膜病变",
+      "title_en": "International Clinical Practice Guidelines for Traditional Chinese Medicine in Diabetic Retinopathy",
+      "year": 2025,
+      "issuing_body": "世界中医药学会联合会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3969/j.issn.1673-7202.2025.14.004",
+      "all_urls": [
+        "https://doi.org/10.3969/j.issn.1673-7202.2025.14.004"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13853,
+          "source_doc_id": "ac038354b03d6fc4c23c4b5de3684779",
+          "department_as_supplied": "中医学",
+          "title_zh": "国际中医临床实践指南：糖尿病视网膜病变",
+          "title_en": "International Clinical Practice Guidelines for Traditional Chinese Medicine in Diabetic Retinopathy",
+          "date_as_supplied": "2025-07-30",
+          "issuing_body_as_supplied": "世界中医药学会联合会",
+          "type_as_supplied": "指南"
+        },
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 16024,
+          "source_doc_id": "ac038354b03d6fc4c23c4b5de3684779",
+          "department_as_supplied": "中医学",
+          "title_zh": "国际中医临床实践指南：糖尿病视网膜病变",
+          "title_en": "International Clinical Practice Guidelines for Traditional Chinese Medicine in Diabetic Retinopathy",
+          "date_as_supplied": "2025-07-30",
+          "issuing_body_as_supplied": "世界中医药学会联合会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "中医学",
+      "topic": "针灸",
+      "id": "GL-4c23bf9f34f7",
+      "title": "针灸治疗功能性消化不良临床实践指南（2025）",
+      "title_en": "Clinical practice guidelines for acupuncture treatment of functional dyspepsia (2025)",
+      "year": 2026,
+      "issuing_body": "",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.7507/1672-2531.202509099",
+      "all_urls": [
+        "https://doi.org/10.7507/1672-2531.202509099"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 16731,
+          "source_doc_id": "4f6990589f5f45322ba1255cb43ca259",
+          "department_as_supplied": "中医学",
+          "title_zh": "针灸治疗功能性消化不良临床实践指南（2025）",
+          "title_en": "Clinical practice guidelines for acupuncture treatment of functional dyspepsia (2025)",
+          "date_as_supplied": "2026-06",
+          "issuing_body_as_supplied": "",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "中医学",
+      "topic": "中西医结合",
+      "id": "GL-a0638a23d9f7",
+      "title": "手足综合征中西医结合诊疗指南",
+      "title_en": "A guideline for the diagnosis and treatment of hand-foot syndrome from the perspective of integrated traditional Chinese and Western medicine",
+      "year": 2025,
+      "issuing_body": "中华中医药学会、China Association of Traditional Chinese Medicine、CACM",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3969/j.issn.1001-0025.2025.03.001",
+      "all_urls": [
+        "https://doi.org/10.3969/j.issn.1001-0025.2025.03.001"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13978,
+          "source_doc_id": "2ecb7bad63ce1cadf355cb1778928a85",
+          "department_as_supplied": "中医学",
+          "title_zh": "手足综合征中西医结合诊疗指南",
+          "title_en": "A guideline for the diagnosis and treatment of hand-foot syndrome from the perspective of integrated traditional Chinese and Western medicine",
+          "date_as_supplied": "2025-06-16",
+          "issuing_body_as_supplied": "中华中医药学会、China Association of Traditional Chinese Medicine、CACM",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "外周介入",
+      "topic": "血管介入",
+      "id": "GL-228a2ed9b7f7",
+      "title": "下肢深静脉血栓形成介入治疗护理实践指南",
+      "title_en": "Guideline for nursing practice of interventional therapy for deep vein thrombosis of lower extremities",
+      "year": 2025,
+      "issuing_body": "中国医师协会介入医师分会",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3969/j.issn.1008-794X.2025.01.002",
+      "all_urls": [
+        "https://doi.org/10.3969/j.issn.1008-794X.2025.01.002"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 14469,
+          "source_doc_id": "96c4b1f1428a2b0d8e9ef8b43988886a",
+          "department_as_supplied": "外周介入",
+          "title_zh": "下肢深静脉血栓形成介入治疗护理实践指南",
+          "title_en": "Guideline for nursing practice of interventional therapy for deep vein thrombosis of lower extremities",
+          "date_as_supplied": "2025",
+          "issuing_body_as_supplied": "中国医师协会介入医师分会",
+          "type_as_supplied": "指南"
+        }
+      ]
+    },
+    {
+      "specialty": "外周介入",
+      "topic": "肝病介入",
+      "id": "GL-32430f1e173e",
+      "title": "布-加综合征介入诊疗指南（2025版）",
+      "title_en": "Guidelines for Interventional Diagnosis and Treatment of Budd-Chiari Syndrome (2025 Edition)",
+      "year": 2025,
+      "issuing_body": "中华医学会放射学分会介入学组、中国医师协会介入医师分会外周血管介入专家工作组",
+      "kind": "指南候选",
+      "url": "https://doi.org/10.3760/cma.j.cn112149-20250109-00019",
+      "all_urls": [
+        "https://doi.org/10.3760/cma.j.cn112149-20250109-00019"
+      ],
+      "selection_basis": "常见临床主题匹配；指南类型、可追溯入口、表内年份优先；未核验当前版本或推荐原文",
+      "current_status": "not_verified",
+      "provenance": [
+        {
+          "file": "指南2026最新汇总.xlsx",
+          "sheet": "Sheet1",
+          "row": 13915,
+          "source_doc_id": "01e123134d03d6c385d2a0535afaf0db",
+          "department_as_supplied": "外周介入",
+          "title_zh": "布-加综合征介入诊疗指南（2025版）",
+          "title_en": "Guidelines for Interventional Diagnosis and Treatment of Budd-Chiari Syndrome (2025 Edition)",
+          "date_as_supplied": "2025-07-07",
+          "issuing_body_as_supplied": "中华医学会放射学分会介入学组、中国医师协会介入医师分会外周血管介入专家工作组",
+          "type_as_supplied": "指南"
+        }
+      ]
+    }
+  ],
+  "topic_gaps": [
+    {
+      "specialty": "血液科",
+      "topic": "淋巴瘤",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "血液科",
+      "topic": "贫血/骨髓衰竭",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "妇产科",
+      "topic": "胎儿生长/超声",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "普通外科",
+      "topic": "胰腺炎",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "胸心外科",
+      "topic": "瓣膜疾病",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "胸心外科",
+      "topic": "主动脉疾病",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "疼痛科",
+      "topic": "癌痛",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "疼痛科",
+      "topic": "神经病理性疼痛",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "精神科",
+      "topic": "焦虑",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "眼科",
+      "topic": "视网膜疾病",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "耳鼻咽喉科",
+      "topic": "眩晕",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "老年病科",
+      "topic": "老年用药",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "康复科",
+      "topic": "卒中康复",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "护理",
+      "topic": "围术期护理",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "营养科",
+      "topic": "危重症营养",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "药学",
+      "topic": "抗菌药物",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "药学",
+      "topic": "药物不良反应",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "检验科",
+      "topic": "检验质量",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "检验科",
+      "topic": "感染检测",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "影像科",
+      "topic": "CT/MRI",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "整形外科",
+      "topic": "瘢痕",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "烧伤科",
+      "topic": "创面",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "预防医学/公共卫生",
+      "topic": "人群健康管理",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    },
+    {
+      "specialty": "外周介入",
+      "topic": "肿瘤介入",
+      "status": "未选到满足题名/类型条件的候选；需官方补检"
+    }
+  ]
+}

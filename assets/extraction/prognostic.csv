@@ -1,0 +1,2 @@
+study_id,report_id,model_or_factor,model_version,study_role,population,setting,baseline_time,endpoint,prediction_horizon,sample_size,event_count,predictors,missing_data_handling,validation_type,discrimination,calibration,effect_or_performance,uncertainty,limitations,retrieval_level,source_locator,unresolved_issue
+

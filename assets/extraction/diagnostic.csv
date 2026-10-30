@@ -1,0 +1,2 @@
+study_id,report_id,threshold_id,design,population_and_spectrum,setting,index_test,threshold,unit,reference_standard,verification_process,blinding,analysis_set,n,true_positive,false_positive,false_negative,true_negative,sensitivity,specificity,uncertainty,indeterminate_results,limitations,retrieval_level,source_locator,unresolved_issue
+

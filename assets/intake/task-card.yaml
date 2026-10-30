@@ -1,0 +1,42 @@
+# 复制到本次run目录填写。null=待确定，不等于无；不填虚构病例信息。
+schema_version: "0.3.0"
+run_id: null
+skill_version: "0.3.0"
+question_original: null
+purpose: null  # 临床决策/文献科研/混合/指定来源核查
+pathway: null  # clinical / research / mixed；按原话判断
+routing_reason: null
+output_format: "html"  # 明确指定其他格式时遵从
+question_type: null
+mode: "standard"  # plan / quick / standard / systematic_search_protocol
+framework:
+  name: null
+  concepts: []
+known_facts: []
+unknowns: []
+assumptions: []
+scope:
+  population: null
+  setting: null
+  inclusion: []
+  exclusion: []
+  languages: ["zh", "en"]  # 用户选择优先；库的地域不等于文献语言
+  start_date: null
+  cutoff_date: null  # 未指定时写本次实际检索日，不把模板日期当默认
+  cutoff_basis: null  # 发表/在线优先/入库/更新；需要说明口径
+tools_and_access:
+  online_available: null
+  available_tools: []
+  subscription_access: []
+  blocked_sources: []
+primary_study_escalation_reason: null
+guideline_version_check: null
+secondary_evidence_check: null
+post_cutoff_update_check: null
+selected_sources: []  # 每项写database/platform/subcollection/role/reason
+known_relevant_records: []  # 召回核对用；不因此限定只能找到这些文献
+deliverables: []
+time_or_record_limit: null
+actual_search_started_at: null
+model_and_tool_versions: null  # 无法核实填unknown
+
